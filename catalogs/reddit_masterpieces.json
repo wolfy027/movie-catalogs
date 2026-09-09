@@ -1,177 +1,1364 @@
 [
   {
-    "id": "tmdb:1007734",
+    "id": "tt0093779",
     "type": "movie",
-    "name": "Nobody 2",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg"
+    "name": "The Princess Bride",
+    "year": "1987",
+    "imdbRating": "8.0",
+    "poster": "https://images.metahub.space/poster/small/tt0093779/img",
+    "background": "https://images.metahub.space/background/medium/tt0093779/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0093779/img",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "upvotes": 802
   },
   {
-    "id": "tmdb:1010756",
+    "id": "tt0338013",
     "type": "movie",
-    "name": "The Strangers: Chapter 2",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg"
+    "name": "Eternal Sunshine of the Spotless Mind",
+    "year": "2004",
+    "imdbRating": "8.3",
+    "poster": "https://images.metahub.space/poster/small/tt0338013/img",
+    "background": "https://images.metahub.space/background/medium/tt0338013/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0338013/img",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "upvotes": 694
   },
   {
-    "id": "tmdb:1013482",
+    "id": "tt0088258",
     "type": "movie",
-    "name": "Borderline",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/z2yAWt1aAvhxap9mdjlQhXiEJT4.jpg"
+    "name": "This Is Spinal Tap",
+    "year": "1984",
+    "imdbRating": "7.9",
+    "poster": "https://images.metahub.space/poster/small/tt0088258/img",
+    "background": "https://images.metahub.space/background/medium/tt0088258/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0088258/img",
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "upvotes": 477
   },
   {
-    "id": "tmdb:1033148",
+    "id": "tt0120737",
     "type": "movie",
-    "name": "Die My Love",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/kajpShbFhOdpl6yCrLezMrr9tB4.jpg"
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "imdbRating": "8.9",
+    "poster": "https://images.metahub.space/poster/small/tt0120737/img",
+    "background": "https://images.metahub.space/background/medium/tt0120737/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0120737/img",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "upvotes": 386
   },
   {
-    "id": "tmdb:1038392",
+    "id": "tt0102926",
     "type": "movie",
-    "name": "The Conjuring: Last Rites",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/umvkcIb0XAk486TEmx1V5aVzhbm.jpg"
+    "name": "The Silence of the Lambs",
+    "year": "1991",
+    "imdbRating": "8.6",
+    "poster": "https://images.metahub.space/poster/small/tt0102926/img",
+    "background": "https://images.metahub.space/background/medium/tt0102926/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0102926/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "upvotes": 385
   },
   {
-    "id": "tmdb:1042834",
+    "id": "tt0118715",
     "type": "movie",
-    "name": "Eden",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg"
+    "name": "The Big Lebowski",
+    "year": "1998",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0118715/img",
+    "background": "https://images.metahub.space/background/medium/tt0118715/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0118715/img",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "upvotes": 317
   },
   {
-    "id": "tmdb:1043905",
+    "id": "tt0088763",
     "type": "movie",
-    "name": "Dirty Angels",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg"
+    "name": "Back to the Future",
+    "year": "1985",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt0088763/img",
+    "background": "https://images.metahub.space/background/medium/tt0088763/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0088763/img",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "upvotes": 276
   },
   {
-    "id": "tmdb:1054867",
+    "id": "tt0245429",
     "type": "movie",
-    "name": "One Battle After Another",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg"
+    "name": "Spirited Away",
+    "year": "2003",
+    "imdbRating": "8.6",
+    "poster": "https://images.metahub.space/poster/small/tt0245429/img",
+    "background": "https://images.metahub.space/background/medium/tt0245429/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0245429/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "upvotes": 209
   },
   {
-    "id": "tmdb:1078605",
+    "id": "tt0103064",
     "type": "movie",
-    "name": "Weapons",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg"
+    "name": "Terminator 2: Judgment Day",
+    "year": "1991",
+    "imdbRating": "8.6",
+    "poster": "https://images.metahub.space/poster/small/tt0103064/img",
+    "background": "https://images.metahub.space/background/medium/tt0103064/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0103064/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "upvotes": 178
   },
   {
-    "id": "tmdb:1082195",
+    "id": "tt0108399",
     "type": "movie",
-    "name": "The Order",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg"
+    "name": "True Romance",
+    "year": "1993",
+    "imdbRating": "7.9",
+    "poster": "https://images.metahub.space/poster/small/tt0108399/img",
+    "background": "https://images.metahub.space/background/medium/tt0108399/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0108399/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "upvotes": 177
   },
   {
-    "id": "tmdb:1083381",
+    "id": "tt0477348",
     "type": "movie",
-    "name": "Backrooms",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+    "name": "No Country for Old Men",
+    "year": "2007",
+    "imdbRating": "8.2",
+    "poster": "https://images.metahub.space/poster/small/tt0477348/img",
+    "background": "https://images.metahub.space/background/medium/tt0477348/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0477348/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "upvotes": 177
   },
   {
-    "id": "tmdb:1084199",
+    "id": "tt0190590",
     "type": "movie",
-    "name": "Companion",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg"
+    "name": "O Brother, Where Art Thou?",
+    "year": "2000",
+    "imdbRating": "7.7",
+    "poster": "https://images.metahub.space/poster/small/tt0190590/img",
+    "background": "https://images.metahub.space/background/medium/tt0190590/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0190590/img",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "upvotes": 158
   },
   {
-    "id": "tmdb:1088166",
+    "id": "tt0208092",
     "type": "movie",
-    "name": "Relay",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg"
+    "name": "Snatch",
+    "year": "2001",
+    "imdbRating": "8.2",
+    "poster": "https://images.metahub.space/poster/small/tt0208092/img",
+    "background": "https://images.metahub.space/background/medium/tt0208092/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0208092/img",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "upvotes": 144
   },
   {
-    "id": "tmdb:1097311",
+    "id": "tt0103639",
     "type": "movie",
-    "name": "Echo Valley",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/4akm5FQdZFfNpYGgVyOEXi72eby.jpg"
+    "name": "Aladdin",
+    "year": "1992",
+    "imdbRating": "8.0",
+    "poster": "https://images.metahub.space/poster/small/tt0103639/img",
+    "background": "https://images.metahub.space/background/medium/tt0103639/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0103639/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "upvotes": 143
   },
   {
-    "id": "tmdb:1100988",
+    "id": "tt0116282",
     "type": "movie",
-    "name": "28 Years Later",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg"
+    "name": "Fargo",
+    "year": "1996",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0116282/img",
+    "background": "https://images.metahub.space/background/medium/tt0116282/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0116282/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "upvotes": 142
   },
   {
-    "id": "tmdb:1101383",
+    "id": "tt0111161",
     "type": "movie",
-    "name": "The End of Oak Street",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg"
+    "name": "The Shawshank Redemption",
+    "year": "1994",
+    "imdbRating": "9.3",
+    "poster": "https://images.metahub.space/poster/small/tt0111161/img",
+    "background": "https://images.metahub.space/background/medium/tt0111161/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0111161/img",
+    "genres": [
+      "Drama"
+    ],
+    "upvotes": 121
   },
   {
-    "id": "tmdb:11087",
+    "id": "tt0482571",
     "type": "movie",
-    "name": "The Hand That Rocks the Cradle",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/1fBnyO3SbNBplck45js6O4pQaLw.jpg"
+    "name": "The Prestige",
+    "year": "2006",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt0482571/img",
+    "background": "https://images.metahub.space/background/medium/tt0482571/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0482571/img",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "upvotes": 96
   },
   {
-    "id": "tmdb:1116201",
+    "id": "tt0104257",
     "type": "movie",
-    "name": "Iron Lung",
-    "year": "",
-    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/tmdb/poster-default/movie-1116201.png?fallback=true"
+    "name": "A Few Good Men",
+    "year": "1992",
+    "imdbRating": "7.7",
+    "poster": "https://images.metahub.space/poster/small/tt0104257/img",
+    "background": "https://images.metahub.space/background/medium/tt0104257/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0104257/img",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "upvotes": 93
   },
   {
-    "id": "tmdb:1119449",
+    "id": "tt0084787",
     "type": "movie",
-    "name": "Good Luck, Have Fun, Don't Die",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg"
+    "name": "The Thing",
+    "year": "1982",
+    "imdbRating": "8.2",
+    "poster": "https://images.metahub.space/poster/small/tt0084787/img",
+    "background": "https://images.metahub.space/background/medium/tt0084787/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0084787/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "upvotes": 87
   },
   {
-    "id": "tmdb:1124620",
+    "id": "tt0093773",
     "type": "movie",
-    "name": "The Monkey",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg"
+    "name": "Predator",
+    "year": "1987",
+    "imdbRating": "7.8",
+    "poster": "https://images.metahub.space/poster/small/tt0093773/img",
+    "background": "https://images.metahub.space/background/medium/tt0093773/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0093773/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "upvotes": 87
   },
   {
-    "id": "tmdb:1125899",
+    "id": "tt0177789",
     "type": "movie",
-    "name": "Cleaner",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg"
+    "name": "Galaxy Quest",
+    "year": "1999",
+    "imdbRating": "7.4",
+    "poster": "https://images.metahub.space/poster/small/tt0177789/img",
+    "background": "https://images.metahub.space/background/medium/tt0177789/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0177789/img",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "upvotes": 79
   },
   {
-    "id": "tmdb:1126934",
+    "id": "tt1392190",
     "type": "movie",
-    "name": "What You Wish For",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/9T6ww265pozXkNPKl26hRhIpbxt.jpg"
+    "name": "Mad Max: Fury Road",
+    "year": "2015",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt1392190/img",
+    "background": "https://images.metahub.space/background/medium/tt1392190/img",
+    "logo": "https://images.metahub.space/logo/medium/tt1392190/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "upvotes": 65
   },
   {
-    "id": "tmdb:1137350",
+    "id": "tt0073195",
     "type": "movie",
-    "name": "The Phoenician Scheme",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/aHjpixSOn166tZLWRdIvHWDPu6y.jpg"
+    "name": "Jaws",
+    "year": "1975",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0073195/img",
+    "background": "https://images.metahub.space/background/medium/tt0073195/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0073195/img",
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Thriller"
+    ],
+    "upvotes": 63
   },
   {
-    "id": "tmdb:1140535",
+    "id": "tt0206634",
     "type": "movie",
-    "name": "Presence",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg"
+    "name": "Children of Men",
+    "year": "2006",
+    "imdbRating": "7.9",
+    "poster": "https://images.metahub.space/poster/small/tt0206634/img",
+    "background": "https://images.metahub.space/background/medium/tt0206634/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0206634/img",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "upvotes": 56
   },
   {
-    "id": "tmdb:1151244",
+    "id": "tt0129167",
     "type": "movie",
-    "name": "Vermiglio",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/aeCwM7c1Y1IAu3Oqqj5A2tSziWR.jpg"
+    "name": "The Iron Giant",
+    "year": "1999",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0129167/img",
+    "background": "https://images.metahub.space/background/medium/tt0129167/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0129167/img",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "upvotes": 48
+  },
+  {
+    "id": "tt0104070",
+    "type": "movie",
+    "name": "Death Becomes Her",
+    "year": "1992",
+    "imdbRating": "6.7",
+    "poster": "https://images.metahub.space/poster/small/tt0104070/img",
+    "background": "https://images.metahub.space/background/medium/tt0104070/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0104070/img",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Horror"
+    ],
+    "upvotes": 47
+  },
+  {
+    "id": "tt0092005",
+    "type": "movie",
+    "name": "Stand by Me",
+    "year": "1986",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0092005/img",
+    "background": "https://images.metahub.space/background/medium/tt0092005/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0092005/img",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "upvotes": 46
+  },
+  {
+    "id": "tt0120917",
+    "type": "movie",
+    "name": "The Emperor's New Groove",
+    "year": "2000",
+    "imdbRating": "7.4",
+    "poster": "https://images.metahub.space/poster/small/tt0120917/img",
+    "background": "https://images.metahub.space/background/medium/tt0120917/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0120917/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "upvotes": 46
+  },
+  {
+    "id": "tt0265666",
+    "type": "movie",
+    "name": "The Royal Tenenbaums",
+    "year": "2002",
+    "imdbRating": "7.6",
+    "poster": "https://images.metahub.space/poster/small/tt0265666/img",
+    "background": "https://images.metahub.space/background/medium/tt0265666/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0265666/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "upvotes": 42
+  },
+  {
+    "id": "tt0364725",
+    "type": "movie",
+    "name": "Dodgeball: A True Underdog Story",
+    "year": "2004",
+    "imdbRating": "6.7",
+    "poster": "https://images.metahub.space/poster/small/tt0364725/img",
+    "background": "https://images.metahub.space/background/medium/tt0364725/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0364725/img",
+    "genres": [
+      "Comedy",
+      "Sport"
+    ],
+    "upvotes": 41
+  },
+  {
+    "id": "tt1386588",
+    "type": "movie",
+    "name": "The Other Guys",
+    "year": "2010",
+    "imdbRating": "6.7",
+    "poster": "https://images.metahub.space/poster/small/tt1386588/img",
+    "background": "https://images.metahub.space/background/medium/tt1386588/img",
+    "logo": "https://images.metahub.space/logo/medium/tt1386588/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "upvotes": 41
+  },
+  {
+    "id": "tt0038650",
+    "type": "movie",
+    "name": "It's a Wonderful Life",
+    "year": "1946",
+    "imdbRating": "8.6",
+    "poster": "https://images.metahub.space/poster/small/tt0038650/img",
+    "background": "https://images.metahub.space/background/medium/tt0038650/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0038650/img",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "upvotes": 39
+  },
+  {
+    "id": "tt0841046",
+    "type": "movie",
+    "name": "Walk Hard: The Dewey Cox Story",
+    "year": "2007",
+    "imdbRating": "6.9",
+    "poster": "https://images.metahub.space/poster/small/tt0841046/img",
+    "background": "https://images.metahub.space/background/medium/tt0841046/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0841046/img",
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "upvotes": 39
+  },
+  {
+    "id": "tt0425112",
+    "type": "movie",
+    "name": "Hot Fuzz",
+    "year": "2007",
+    "imdbRating": "7.8",
+    "poster": "https://images.metahub.space/poster/small/tt0425112/img",
+    "background": "https://images.metahub.space/background/medium/tt0425112/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0425112/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Mystery"
+    ],
+    "upvotes": 38
+  },
+  {
+    "id": "tt0407887",
+    "type": "movie",
+    "name": "The Departed",
+    "year": "2006",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt0407887/img",
+    "background": "https://images.metahub.space/background/medium/tt0407887/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0407887/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "upvotes": 37
+  },
+  {
+    "id": "tt0114814",
+    "type": "movie",
+    "name": "The Usual Suspects",
+    "year": "1995",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt0114814/img",
+    "background": "https://images.metahub.space/background/medium/tt0114814/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0114814/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "upvotes": 36
+  },
+  {
+    "id": "tt0057012",
+    "type": "movie",
+    "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": "1964",
+    "imdbRating": "8.3",
+    "poster": "https://images.metahub.space/poster/small/tt0057012/img",
+    "background": "https://images.metahub.space/background/medium/tt0057012/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0057012/img",
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "upvotes": 32
+  },
+  {
+    "id": "tt0078748",
+    "type": "movie",
+    "name": "Alien",
+    "year": "1979",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt0078748/img",
+    "background": "https://images.metahub.space/background/medium/tt0078748/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0078748/img",
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "upvotes": 30
+  },
+  {
+    "id": "tt0090605",
+    "type": "movie",
+    "name": "Aliens",
+    "year": "1986",
+    "imdbRating": "8.4",
+    "poster": "https://images.metahub.space/poster/small/tt0090605/img",
+    "background": "https://images.metahub.space/background/medium/tt0090605/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0090605/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ],
+    "upvotes": 30
+  },
+  {
+    "id": "tt0098546",
+    "type": "movie",
+    "name": "UHF",
+    "year": "1989",
+    "imdbRating": "6.9",
+    "poster": "https://images.metahub.space/poster/small/tt0098546/img",
+    "background": "https://images.metahub.space/background/medium/tt0098546/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0098546/img",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "upvotes": 30
+  },
+  {
+    "id": "tt0128445",
+    "type": "movie",
+    "name": "Rushmore",
+    "year": "1999",
+    "imdbRating": "7.6",
+    "poster": "https://images.metahub.space/poster/small/tt0128445/img",
+    "background": "https://images.metahub.space/background/medium/tt0128445/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0128445/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "upvotes": 29
+  },
+  {
+    "id": "tt0071230",
+    "type": "movie",
+    "name": "Blazing Saddles",
+    "year": "1974",
+    "imdbRating": "7.7",
+    "poster": "https://images.metahub.space/poster/small/tt0071230/img",
+    "background": "https://images.metahub.space/background/medium/tt0071230/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0071230/img",
+    "genres": [
+      "Comedy",
+      "Western"
+    ],
+    "upvotes": 27
+  },
+  {
+    "id": "tt0080684",
+    "type": "movie",
+    "name": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": "1980",
+    "imdbRating": "8.7",
+    "poster": "https://images.metahub.space/poster/small/tt0080684/img",
+    "background": "https://images.metahub.space/background/medium/tt0080684/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0080684/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "upvotes": 25
+  },
+  {
+    "id": "tt0088930",
+    "type": "movie",
+    "name": "Clue",
+    "year": "1985",
+    "imdbRating": "7.3",
+    "poster": "https://images.metahub.space/poster/small/tt0088930/img",
+    "background": "https://images.metahub.space/background/medium/tt0088930/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0088930/img",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Mystery"
+    ],
+    "upvotes": 25
+  },
+  {
+    "id": "tt0100758",
+    "type": "movie",
+    "name": "Teenage Mutant Ninja Turtles",
+    "year": "1990",
+    "imdbRating": "6.8",
+    "poster": "https://images.metahub.space/poster/small/tt0100758/img",
+    "background": "https://images.metahub.space/background/medium/tt0100758/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0100758/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "upvotes": 22
+  },
+  {
+    "id": "tt1392214",
+    "type": "movie",
+    "name": "Prisoners",
+    "year": "2013",
+    "imdbRating": "8.2",
+    "poster": "https://images.metahub.space/poster/small/tt1392214/img",
+    "background": "https://images.metahub.space/background/medium/tt1392214/img",
+    "logo": "https://images.metahub.space/logo/medium/tt1392214/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "upvotes": 22
+  },
+  {
+    "id": "tt0061512",
+    "type": "movie",
+    "name": "Cool Hand Luke",
+    "year": "1967",
+    "imdbRating": "8.0",
+    "poster": "https://images.metahub.space/poster/small/tt0061512/img",
+    "background": "https://images.metahub.space/background/medium/tt0061512/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0061512/img",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "upvotes": 21
+  },
+  {
+    "id": "tt0093822",
+    "type": "movie",
+    "name": "Raising Arizona",
+    "year": "1987",
+    "imdbRating": "7.3",
+    "poster": "https://images.metahub.space/poster/small/tt0093822/img",
+    "background": "https://images.metahub.space/background/medium/tt0093822/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0093822/img",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "upvotes": 21
+  },
+  {
+    "id": "tt0211915",
+    "type": "movie",
+    "name": "Am\u00e9lie",
+    "year": "2002",
+    "imdbRating": "8.3",
+    "poster": "https://images.metahub.space/poster/small/tt0211915/img",
+    "background": "https://images.metahub.space/background/medium/tt0211915/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0211915/img",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "upvotes": 21
+  },
+  {
+    "id": "tt0468569",
+    "type": "movie",
+    "name": "The Dark Knight",
+    "year": "2008",
+    "imdbRating": "9.1",
+    "poster": "https://images.metahub.space/poster/small/tt0468569/img",
+    "background": "https://images.metahub.space/background/medium/tt0468569/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0468569/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "upvotes": 21
+  },
+  {
+    "id": "tt0780504",
+    "type": "movie",
+    "name": "Drive",
+    "year": "2011",
+    "imdbRating": "7.8",
+    "poster": "https://images.metahub.space/poster/small/tt0780504/img",
+    "background": "https://images.metahub.space/background/medium/tt0780504/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0780504/img",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "upvotes": 21
+  },
+  {
+    "id": "tt0083658",
+    "type": "movie",
+    "name": "Blade Runner",
+    "year": "1982",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0083658/img",
+    "background": "https://images.metahub.space/background/medium/tt0083658/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0083658/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "upvotes": 19
+  },
+  {
+    "id": "tt0120735",
+    "type": "movie",
+    "name": "Lock, Stock and Two Smoking Barrels",
+    "year": "1998",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0120735/img",
+    "background": "https://images.metahub.space/background/medium/tt0120735/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0120735/img",
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "upvotes": 19
+  },
+  {
+    "id": "tt0120338",
+    "type": "movie",
+    "name": "Titanic",
+    "year": "1997",
+    "imdbRating": "8.0",
+    "poster": "https://images.metahub.space/poster/small/tt0120338/img",
+    "background": "https://images.metahub.space/background/medium/tt0120338/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0120338/img",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "upvotes": 18
+  },
+  {
+    "id": "tt0032138",
+    "type": "movie",
+    "name": "The Wizard of Oz",
+    "year": "1939",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0032138/img",
+    "background": "https://images.metahub.space/background/medium/tt0032138/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0032138/img",
+    "genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "upvotes": 17
+  },
+  {
+    "id": "tt4633694",
+    "type": "movie",
+    "name": "Spider-Man: Into the Spider-Verse",
+    "year": "2018",
+    "imdbRating": "8.4",
+    "poster": "https://images.metahub.space/poster/small/tt4633694/img",
+    "background": "https://images.metahub.space/background/medium/tt4633694/img",
+    "logo": "https://images.metahub.space/logo/medium/tt4633694/img",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "upvotes": 15
+  },
+  {
+    "id": "tt0120616",
+    "type": "movie",
+    "name": "The Mummy",
+    "year": "1999",
+    "imdbRating": "7.1",
+    "poster": "https://images.metahub.space/poster/small/tt0120616/img",
+    "background": "https://images.metahub.space/background/medium/tt0120616/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0120616/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "upvotes": 14
+  },
+  {
+    "id": "tt6751668",
+    "type": "movie",
+    "name": "Parasite",
+    "year": "2019",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt6751668/img",
+    "background": "https://images.metahub.space/background/medium/tt6751668/img",
+    "logo": "https://images.metahub.space/logo/medium/tt6751668/img",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "upvotes": 14
+  },
+  {
+    "id": "tt0034583",
+    "type": "movie",
+    "name": "Casablanca",
+    "year": "1943",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt0034583/img",
+    "background": "https://images.metahub.space/background/medium/tt0034583/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0034583/img",
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "upvotes": 13
+  },
+  {
+    "id": "tt0050083",
+    "type": "movie",
+    "name": "12 Angry Men",
+    "year": "1957",
+    "imdbRating": "9.0",
+    "poster": "https://images.metahub.space/poster/small/tt0050083/img",
+    "background": "https://images.metahub.space/background/medium/tt0050083/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0050083/img",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "upvotes": 13
+  },
+  {
+    "id": "tt0069293",
+    "type": "movie",
+    "name": "Solaris",
+    "year": "1972",
+    "imdbRating": "7.9",
+    "poster": "https://images.metahub.space/poster/small/tt0069293/img",
+    "background": "https://images.metahub.space/background/medium/tt0069293/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0069293/img",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "upvotes": 13
+  },
+  {
+    "id": "tt0100814",
+    "type": "movie",
+    "name": "Tremors",
+    "year": "1990",
+    "imdbRating": "7.2",
+    "poster": "https://images.metahub.space/poster/small/tt0100814/img",
+    "background": "https://images.metahub.space/background/medium/tt0100814/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0100814/img",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "upvotes": 12
+  },
+  {
+    "id": "tt0105665",
+    "type": "movie",
+    "name": "Twin Peaks: Fire Walk with Me",
+    "year": "1992",
+    "imdbRating": "7.3",
+    "poster": "https://images.metahub.space/poster/small/tt0105665/img",
+    "background": "https://images.metahub.space/background/medium/tt0105665/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0105665/img",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "upvotes": 12
+  },
+  {
+    "id": "tt0086879",
+    "type": "movie",
+    "name": "Amadeus",
+    "year": "1984",
+    "imdbRating": "8.4",
+    "poster": "https://images.metahub.space/poster/small/tt0086879/img",
+    "background": "https://images.metahub.space/background/medium/tt0086879/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0086879/img",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ],
+    "upvotes": 11
+  },
+  {
+    "id": "tt0137523",
+    "type": "movie",
+    "name": "Fight Club",
+    "year": "1999",
+    "imdbRating": "8.8",
+    "poster": "https://images.metahub.space/poster/small/tt0137523/img",
+    "background": "https://images.metahub.space/background/medium/tt0137523/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0137523/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "upvotes": 11
+  },
+  {
+    "id": "tt2543164",
+    "type": "movie",
+    "name": "Arrival",
+    "year": "2016",
+    "imdbRating": "7.9",
+    "poster": "https://images.metahub.space/poster/small/tt2543164/img",
+    "background": "https://images.metahub.space/background/medium/tt2543164/img",
+    "logo": "https://images.metahub.space/logo/medium/tt2543164/img",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "upvotes": 11
+  },
+  {
+    "id": "tt0093870",
+    "type": "movie",
+    "name": "RoboCop",
+    "year": "1987",
+    "imdbRating": "7.6",
+    "poster": "https://images.metahub.space/poster/small/tt0093870/img",
+    "background": "https://images.metahub.space/background/medium/tt0093870/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0093870/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Sci-Fi"
+    ],
+    "upvotes": 10
+  },
+  {
+    "id": "tt0104691",
+    "type": "movie",
+    "name": "The Last of the Mohicans",
+    "year": "1992",
+    "imdbRating": "7.6",
+    "poster": "https://images.metahub.space/poster/small/tt0104691/img",
+    "background": "https://images.metahub.space/background/medium/tt0104691/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0104691/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "upvotes": 10
+  },
+  {
+    "id": "tt0361748",
+    "type": "movie",
+    "name": "Inglourious Basterds",
+    "year": "2009",
+    "imdbRating": "8.4",
+    "poster": "https://images.metahub.space/poster/small/tt0361748/img",
+    "background": "https://images.metahub.space/background/medium/tt0361748/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0361748/img",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ],
+    "upvotes": 10
+  },
+  {
+    "id": "tt0109830",
+    "type": "movie",
+    "name": "Forrest Gump",
+    "year": "1994",
+    "imdbRating": "8.8",
+    "poster": "https://images.metahub.space/poster/small/tt0109830/img",
+    "background": "https://images.metahub.space/background/medium/tt0109830/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0109830/img",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "upvotes": 9
+  },
+  {
+    "id": "tt0133093",
+    "type": "movie",
+    "name": "The Matrix",
+    "year": "1999",
+    "imdbRating": "8.7",
+    "poster": "https://images.metahub.space/poster/small/tt0133093/img",
+    "background": "https://images.metahub.space/background/medium/tt0133093/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0133093/img",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "upvotes": 9
+  },
+  {
+    "id": "tt0185014",
+    "type": "movie",
+    "name": "Wonder Boys",
+    "year": "2000",
+    "imdbRating": "7.2",
+    "poster": "https://images.metahub.space/poster/small/tt0185014/img",
+    "background": "https://images.metahub.space/background/medium/tt0185014/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0185014/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "upvotes": 9
+  },
+  {
+    "id": "tt0892769",
+    "type": "movie",
+    "name": "How to Train Your Dragon",
+    "year": "2010",
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt0892769/img",
+    "background": "https://images.metahub.space/background/medium/tt0892769/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0892769/img",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "upvotes": 9
+  },
+  {
+    "id": "tt0457430",
+    "type": "movie",
+    "name": "Pan's Labyrinth",
+    "year": "2007",
+    "imdbRating": "8.2",
+    "poster": "https://images.metahub.space/poster/small/tt0457430/img",
+    "background": "https://images.metahub.space/background/medium/tt0457430/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0457430/img",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ],
+    "upvotes": 8
+  },
+  {
+    "id": "tt0942385",
+    "type": "movie",
+    "name": "Tropic Thunder",
+    "year": "2008",
+    "imdbRating": "7.1",
+    "poster": "https://images.metahub.space/poster/small/tt0942385/img",
+    "background": "https://images.metahub.space/background/medium/tt0942385/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0942385/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "War"
+    ],
+    "upvotes": 8
+  },
+  {
+    "id": "tt2582802",
+    "type": "movie",
+    "name": "Whiplash",
+    "year": "2014",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt2582802/img",
+    "background": "https://images.metahub.space/background/medium/tt2582802/img",
+    "logo": "https://images.metahub.space/logo/medium/tt2582802/img",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "upvotes": 8
+  },
+  {
+    "id": "tt0120815",
+    "type": "movie",
+    "name": "Saving Private Ryan",
+    "year": "1998",
+    "imdbRating": "8.6",
+    "poster": "https://images.metahub.space/poster/small/tt0120815/img",
+    "background": "https://images.metahub.space/background/medium/tt0120815/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0120815/img",
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "upvotes": 6
+  },
+  {
+    "id": "tt0172495",
+    "type": "movie",
+    "name": "Gladiator",
+    "year": "2000",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt0172495/img",
+    "background": "https://images.metahub.space/background/medium/tt0172495/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0172495/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "upvotes": 6
+  },
+  {
+    "id": "tt2584384",
+    "type": "movie",
+    "name": "Jojo Rabbit",
+    "year": "2019",
+    "imdbRating": "7.9",
+    "poster": "https://images.metahub.space/poster/small/tt2584384/img",
+    "background": "https://images.metahub.space/background/medium/tt2584384/img",
+    "logo": "https://images.metahub.space/logo/medium/tt2584384/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ],
+    "upvotes": 6
+  },
+  {
+    "id": "tt0047396",
+    "type": "movie",
+    "name": "Rear Window",
+    "year": "1954",
+    "imdbRating": "8.5",
+    "poster": "https://images.metahub.space/poster/small/tt0047396/img",
+    "background": "https://images.metahub.space/background/medium/tt0047396/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0047396/img",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "upvotes": 5
+  },
+  {
+    "id": "tt0071562",
+    "type": "movie",
+    "name": "The Godfather Part II",
+    "year": "1974",
+    "imdbRating": "9.0",
+    "poster": "https://images.metahub.space/poster/small/tt0071562/img",
+    "background": "https://images.metahub.space/background/medium/tt0071562/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0071562/img",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "upvotes": 5
+  },
+  {
+    "id": "tt0107048",
+    "type": "movie",
+    "name": "Groundhog Day",
+    "year": "1993",
+    "imdbRating": "8.0",
+    "poster": "https://images.metahub.space/poster/small/tt0107048/img",
+    "background": "https://images.metahub.space/background/medium/tt0107048/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0107048/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "upvotes": 5
+  },
+  {
+    "id": "tt0469494",
+    "type": "movie",
+    "name": "There Will Be Blood",
+    "year": "2007",
+    "imdbRating": "8.2",
+    "poster": "https://images.metahub.space/poster/small/tt0469494/img",
+    "background": "https://images.metahub.space/background/medium/tt0469494/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0469494/img",
+    "genres": [
+      "Drama"
+    ],
+    "upvotes": 5
+  },
+  {
+    "id": "tt1596363",
+    "type": "movie",
+    "name": "The Big Short",
+    "year": "2015",
+    "imdbRating": "7.8",
+    "poster": "https://images.metahub.space/poster/small/tt1596363/img",
+    "background": "https://images.metahub.space/background/medium/tt1596363/img",
+    "logo": "https://images.metahub.space/logo/medium/tt1596363/img",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "upvotes": 5
+  },
+  {
+    "id": "tt2194499",
+    "type": "movie",
+    "name": "About Time",
+    "year": "2013",
+    "imdbRating": "7.8",
+    "poster": "https://images.metahub.space/poster/small/tt2194499/img",
+    "background": "https://images.metahub.space/background/medium/tt2194499/img",
+    "logo": "https://images.metahub.space/logo/medium/tt2194499/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "upvotes": 5
+  },
+  {
+    "id": "tt0816692",
+    "type": "movie",
+    "name": "Interstellar",
+    "year": "2014",
+    "imdbRating": "8.7",
+    "poster": "https://images.metahub.space/poster/small/tt0816692/img",
+    "background": "https://images.metahub.space/background/medium/tt0816692/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0816692/img",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "upvotes": 4
+  },
+  {
+    "id": "tt0910970",
+    "type": "movie",
+    "name": "WALL\u00b7E",
+    "year": "2008",
+    "imdbRating": "8.4",
+    "poster": "https://images.metahub.space/poster/small/tt0910970/img",
+    "background": "https://images.metahub.space/background/medium/tt0910970/img",
+    "logo": "https://images.metahub.space/logo/medium/tt0910970/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Family"
+    ],
+    "upvotes": 0
   }
 ]
