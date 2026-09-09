@@ -15,6 +15,12 @@
       "name": "Reddit 11/10 Masterpieces",
       "type": "movie",
       "file": "catalogs/reddit_masterpieces.json"
+    },
+    {
+      "id": "letterboxd_picks",
+      "name": "Letterboxd Picks",
+      "type": "movie",
+      "file": "catalogs/letterboxd_picks.json"
     }
   ]
 }

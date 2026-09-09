@@ -39,6 +39,21 @@
           "isRequired": false
         }
       ]
+    },
+    {
+      "type": "movie",
+      "id": "letterboxd_picks",
+      "name": "Letterboxd Picks",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
     }
   ]
 }
