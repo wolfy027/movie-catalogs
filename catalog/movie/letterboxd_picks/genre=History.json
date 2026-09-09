@@ -1,0 +1,20 @@
+{
+  "metas": [
+    {
+      "id": "tt7160372",
+      "type": "movie",
+      "name": "The Zone of Interest",
+      "poster": "https://images.metahub.space/poster/small/tt7160372/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7160372/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7160372/img",
+      "year": "2023",
+      "imdbRating": "7.3",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ]
+    }
+  ]
+}

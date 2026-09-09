@@ -1,0 +1,61 @@
+{
+  "metas": [
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "name": "Coraline",
+      "poster": "https://images.metahub.space/poster/small/tt0327597/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0327597/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0327597/img",
+      "year": "2009",
+      "imdbRating": "7.8",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Drama",
+        "Family",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 4.19 | IMDb: 7.8"
+    },
+    {
+      "id": "tt0341455",
+      "type": "movie",
+      "name": "Makdee",
+      "poster": "https://images.metahub.space/poster/small/tt0341455/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0341455/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0341455/img",
+      "year": "2002",
+      "imdbRating": "7.5",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.49 | IMDb: 7.5"
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "name": "Monster House",
+      "poster": "https://images.metahub.space/poster/small/tt0385880/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0385880/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0385880/img",
+      "year": "2006",
+      "imdbRating": "6.7",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Comedy",
+        "Family",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.46 | IMDb: 6.7"
+    }
+  ]
+}

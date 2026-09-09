@@ -1,0 +1,22 @@
+{
+  "metas": [
+    {
+      "id": "tt1863330",
+      "type": "movie",
+      "name": "Millhaven",
+      "poster": "https://live.metahub.space/poster/small/tt1863330/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt1863330/img",
+      "logo": "https://live.metahub.space/logo/medium/tt1863330/img",
+      "year": "2010",
+      "imdbRating": "6.7",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Music",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.49 | IMDb: 6.7"
+    }
+  ]
+}

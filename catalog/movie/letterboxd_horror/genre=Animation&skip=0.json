@@ -1,0 +1,116 @@
+{
+  "metas": [
+    {
+      "id": "tt0327597",
+      "type": "movie",
+      "name": "Coraline",
+      "poster": "https://images.metahub.space/poster/small/tt0327597/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0327597/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0327597/img",
+      "year": "2009",
+      "imdbRating": "7.8",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Drama",
+        "Family",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 4.19 | IMDb: 7.8"
+    },
+    {
+      "id": "tt8387918",
+      "type": "movie",
+      "name": "Kill It and Leave This Town",
+      "poster": "https://images.metahub.space/poster/small/tt8387918/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8387918/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8387918/img",
+      "year": "2020",
+      "imdbRating": "6.5",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.49 | IMDb: 6.5"
+    },
+    {
+      "id": "tt1863330",
+      "type": "movie",
+      "name": "Millhaven",
+      "poster": "https://live.metahub.space/poster/small/tt1863330/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt1863330/img",
+      "logo": "https://live.metahub.space/logo/medium/tt1863330/img",
+      "year": "2010",
+      "imdbRating": "6.7",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Music",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.49 | IMDb: 6.7"
+    },
+    {
+      "id": "tt0385880",
+      "type": "movie",
+      "name": "Monster House",
+      "poster": "https://images.metahub.space/poster/small/tt0385880/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0385880/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0385880/img",
+      "year": "2006",
+      "imdbRating": "6.7",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Comedy",
+        "Family",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.46 | IMDb: 6.7"
+    },
+    {
+      "id": "tt1807978",
+      "type": "movie",
+      "name": "Bhoot and Friends",
+      "poster": "https://images.metahub.space/poster/small/tt1807978/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1807978/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1807978/img",
+      "year": "2010",
+      "imdbRating": "5.5",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Action",
+        "Adventure",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.35 | IMDb: 5.5"
+    },
+    {
+      "id": "tt33069917",
+      "type": "movie",
+      "name": "Sanatorium Under the Sign of the Hourglass",
+      "poster": "https://live.metahub.space/poster/small/tt33069917/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt33069917/img",
+      "logo": "https://live.metahub.space/logo/medium/tt33069917/img",
+      "year": "2024",
+      "imdbRating": "5.9",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.18 | IMDb: 5.9"
+    }
+  ]
+}

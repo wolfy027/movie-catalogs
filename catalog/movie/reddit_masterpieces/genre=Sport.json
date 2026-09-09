@@ -1,0 +1,19 @@
+{
+  "metas": [
+    {
+      "id": "tt0364725",
+      "type": "movie",
+      "name": "Dodgeball: A True Underdog Story",
+      "poster": "https://images.metahub.space/poster/small/tt0364725/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0364725/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0364725/img",
+      "year": "2004",
+      "imdbRating": "6.7",
+      "genres": [
+        "Comedy",
+        "Sport"
+      ]
+    }
+  ]
+}

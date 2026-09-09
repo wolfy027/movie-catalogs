@@ -1,0 +1,113 @@
+{
+  "metas": [
+    {
+      "id": "tt0338013",
+      "type": "movie",
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "poster": "https://images.metahub.space/poster/small/tt0338013/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0338013/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0338013/img",
+      "year": "2004",
+      "imdbRating": "8.3",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0108399",
+      "type": "movie",
+      "name": "True Romance",
+      "poster": "https://images.metahub.space/poster/small/tt0108399/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0108399/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0108399/img",
+      "year": "1993",
+      "imdbRating": "7.9",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0128445",
+      "type": "movie",
+      "name": "Rushmore",
+      "poster": "https://images.metahub.space/poster/small/tt0128445/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0128445/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0128445/img",
+      "year": "1999",
+      "imdbRating": "7.6",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0211915",
+      "type": "movie",
+      "name": "Am\u00e9lie",
+      "poster": "https://images.metahub.space/poster/small/tt0211915/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0211915/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0211915/img",
+      "year": "2002",
+      "imdbRating": "8.3",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0120338",
+      "type": "movie",
+      "name": "Titanic",
+      "poster": "https://images.metahub.space/poster/small/tt0120338/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0120338/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0120338/img",
+      "year": "1997",
+      "imdbRating": "8.0",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0034583",
+      "type": "movie",
+      "name": "Casablanca",
+      "poster": "https://images.metahub.space/poster/small/tt0034583/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0034583/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0034583/img",
+      "year": "1943",
+      "imdbRating": "8.5",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ]
+    },
+    {
+      "id": "tt0109830",
+      "type": "movie",
+      "name": "Forrest Gump",
+      "poster": "https://images.metahub.space/poster/small/tt0109830/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0109830/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0109830/img",
+      "year": "1994",
+      "imdbRating": "8.8",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    }
+  ]
+}

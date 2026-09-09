@@ -1,0 +1,148 @@
+{
+  "metas": [
+    {
+      "id": "tt0120737",
+      "type": "movie",
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster": "https://images.metahub.space/poster/small/tt0120737/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0120737/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0120737/img",
+      "year": "2001",
+      "imdbRating": "8.9",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0104070",
+      "type": "movie",
+      "name": "Death Becomes Her",
+      "poster": "https://images.metahub.space/poster/small/tt0104070/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0104070/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0104070/img",
+      "year": "1992",
+      "imdbRating": "6.7",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0038650",
+      "type": "movie",
+      "name": "It's a Wonderful Life",
+      "poster": "https://images.metahub.space/poster/small/tt0038650/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0038650/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0038650/img",
+      "year": "1946",
+      "imdbRating": "8.6",
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0080684",
+      "type": "movie",
+      "name": "Star Wars: Episode V - The Empire Strikes Back",
+      "poster": "https://images.metahub.space/poster/small/tt0080684/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0080684/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0080684/img",
+      "year": "1980",
+      "imdbRating": "8.7",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0032138",
+      "type": "movie",
+      "name": "The Wizard of Oz",
+      "poster": "https://images.metahub.space/poster/small/tt0032138/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0032138/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0032138/img",
+      "year": "1939",
+      "imdbRating": "8.1",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0120616",
+      "type": "movie",
+      "name": "The Mummy",
+      "poster": "https://images.metahub.space/poster/small/tt0120616/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0120616/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0120616/img",
+      "year": "1999",
+      "imdbRating": "7.1",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0457430",
+      "type": "movie",
+      "name": "Pan's Labyrinth",
+      "poster": "https://images.metahub.space/poster/small/tt0457430/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0457430/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0457430/img",
+      "year": "2007",
+      "imdbRating": "8.2",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "War"
+      ]
+    },
+    {
+      "id": "tt0107048",
+      "type": "movie",
+      "name": "Groundhog Day",
+      "poster": "https://images.metahub.space/poster/small/tt0107048/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0107048/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0107048/img",
+      "year": "1993",
+      "imdbRating": "8.0",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt2194499",
+      "type": "movie",
+      "name": "About Time",
+      "poster": "https://images.metahub.space/poster/small/tt2194499/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2194499/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2194499/img",
+      "year": "2013",
+      "imdbRating": "7.8",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ]
+    }
+  ]
+}

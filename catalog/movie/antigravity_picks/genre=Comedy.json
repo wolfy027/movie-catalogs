@@ -1,0 +1,35 @@
+{
+  "metas": [
+    {
+      "id": "tt13650814",
+      "type": "movie",
+      "name": "Borderline",
+      "poster": "https://image.tmdb.org/t/p/w500/z2yAWt1aAvhxap9mdjlQhXiEJT4.jpg",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13650814/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13650814/img",
+      "year": "",
+      "imdbRating": "",
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt9362736",
+      "type": "movie",
+      "name": "Die My Love",
+      "poster": "https://image.tmdb.org/t/p/w500/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9362736/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9362736/img",
+      "year": "2025",
+      "imdbRating": "",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Horror"
+      ]
+    }
+  ]
+}

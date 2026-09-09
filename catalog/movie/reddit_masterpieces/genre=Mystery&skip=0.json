@@ -1,0 +1,164 @@
+{
+  "metas": [
+    {
+      "id": "tt0482571",
+      "type": "movie",
+      "name": "The Prestige",
+      "poster": "https://images.metahub.space/poster/small/tt0482571/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0482571/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0482571/img",
+      "year": "2006",
+      "imdbRating": "8.5",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0084787",
+      "type": "movie",
+      "name": "The Thing",
+      "poster": "https://images.metahub.space/poster/small/tt0084787/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0084787/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0084787/img",
+      "year": "1982",
+      "imdbRating": "8.2",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0425112",
+      "type": "movie",
+      "name": "Hot Fuzz",
+      "poster": "https://images.metahub.space/poster/small/tt0425112/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0425112/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0425112/img",
+      "year": "2007",
+      "imdbRating": "7.8",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0114814",
+      "type": "movie",
+      "name": "The Usual Suspects",
+      "poster": "https://images.metahub.space/poster/small/tt0114814/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0114814/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0114814/img",
+      "year": "1995",
+      "imdbRating": "8.5",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0088930",
+      "type": "movie",
+      "name": "Clue",
+      "poster": "https://images.metahub.space/poster/small/tt0088930/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0088930/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0088930/img",
+      "year": "1985",
+      "imdbRating": "7.3",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt1392214",
+      "type": "movie",
+      "name": "Prisoners",
+      "poster": "https://images.metahub.space/poster/small/tt1392214/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1392214/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1392214/img",
+      "year": "2013",
+      "imdbRating": "8.2",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0069293",
+      "type": "movie",
+      "name": "Solaris",
+      "poster": "https://images.metahub.space/poster/small/tt0069293/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0069293/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0069293/img",
+      "year": "1972",
+      "imdbRating": "7.9",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0105665",
+      "type": "movie",
+      "name": "Twin Peaks: Fire Walk with Me",
+      "poster": "https://images.metahub.space/poster/small/tt0105665/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0105665/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0105665/img",
+      "year": "1992",
+      "imdbRating": "7.3",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt2543164",
+      "type": "movie",
+      "name": "Arrival",
+      "poster": "https://images.metahub.space/poster/small/tt2543164/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2543164/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2543164/img",
+      "year": "2016",
+      "imdbRating": "7.9",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0047396",
+      "type": "movie",
+      "name": "Rear Window",
+      "poster": "https://images.metahub.space/poster/small/tt0047396/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0047396/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0047396/img",
+      "year": "1954",
+      "imdbRating": "8.5",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ]
+    }
+  ]
+}

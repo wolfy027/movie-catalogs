@@ -1,0 +1,22 @@
+{
+  "metas": [
+    {
+      "id": "tt7203520",
+      "type": "movie",
+      "name": "Werewolf",
+      "poster": "https://images.metahub.space/poster/small/tt7203520/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7203520/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203520/img",
+      "year": "2018",
+      "imdbRating": "6.0",
+      "genres": [
+        "Drama",
+        "Horror",
+        "War",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.11 | IMDb: 6.0"
+    }
+  ]
+}

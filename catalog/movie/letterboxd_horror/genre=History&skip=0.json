@@ -1,0 +1,21 @@
+{
+  "metas": [
+    {
+      "id": "tt7240616",
+      "type": "movie",
+      "name": "Krew Boga",
+      "poster": "https://images.metahub.space/poster/small/tt7240616/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7240616/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7240616/img",
+      "year": "2018",
+      "imdbRating": "5.3",
+      "genres": [
+        "Horror",
+        "History",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.28 | IMDb: 5.3"
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "metas": [
+    {
+      "id": "tt7984734",
+      "type": "movie",
+      "name": "The Lighthouse",
+      "poster": "https://images.metahub.space/poster/small/tt7984734/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7984734/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7984734/img",
+      "year": "2019",
+      "imdbRating": "7.4",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 4.0 | IMDb: 7.4"
+    },
+    {
+      "id": "tt0460829",
+      "type": "movie",
+      "name": "Inland Empire",
+      "poster": "https://images.metahub.space/poster/small/tt0460829/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0460829/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0460829/img",
+      "year": "2006",
+      "imdbRating": "6.8",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.9 | IMDb: 6.8"
+    },
+    {
+      "id": "tt1312221",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "https://images.metahub.space/poster/small/tt1312221/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1312221/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1312221/img",
+      "year": "2025",
+      "imdbRating": "7.4",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.83 | IMDb: 7.4"
+    },
+    {
+      "id": "tt4263482",
+      "type": "movie",
+      "name": "The Witch",
+      "poster": "https://images.metahub.space/poster/small/tt4263482/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4263482/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4263482/img",
+      "year": "2016",
+      "imdbRating": "7.0",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.82 | IMDb: 7.0"
+    },
+    {
+      "id": "tt1034415",
+      "type": "movie",
+      "name": "Suspiria",
+      "poster": "https://images.metahub.space/poster/small/tt1034415/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1034415/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1034415/img",
+      "year": "2018",
+      "imdbRating": "6.7",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.73 | IMDb: 6.7"
+    },
+    {
+      "id": "tt8239946",
+      "type": "movie",
+      "name": "Tumbbad",
+      "poster": "https://images.metahub.space/poster/small/tt8239946/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8239946/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8239946/img",
+      "year": "2018",
+      "imdbRating": "8.2",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.69 | IMDb: 8.2"
+    },
+    {
+      "id": "tt5040012",
+      "type": "movie",
+      "name": "Nosferatu",
+      "poster": "https://images.metahub.space/poster/small/tt5040012/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5040012/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5040012/img",
+      "year": "2024",
+      "imdbRating": "7.1",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.66 | IMDb: 7.1"
+    },
+    {
+      "id": "tt6998518",
+      "type": "movie",
+      "name": "Mandy",
+      "poster": "https://images.metahub.space/poster/small/tt6998518/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6998518/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6998518/img",
+      "year": "2018",
+      "imdbRating": "6.5",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.61 | IMDb: 6.5"
+    },
+    {
+      "id": "tt0487011",
+      "type": "movie",
+      "name": "Anandabhadram",
+      "poster": "https://live.metahub.space/poster/small/tt0487011/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt0487011/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0487011/img",
+      "year": "2005",
+      "imdbRating": "7.3",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thriller",
+        "Malayalam"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.59 | IMDb: 7.3"
+    },
+    {
+      "id": "tt12625756",
+      "type": "movie",
+      "name": "Churuli",
+      "poster": "https://images.metahub.space/poster/small/tt12625756/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt12625756/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12625756/img",
+      "year": "2021",
+      "imdbRating": "7.0",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Mystery",
+        "Sci-Fi",
+        "Malayalam"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.54 | IMDb: 7.0"
+    },
+    {
+      "id": "tt0341455",
+      "type": "movie",
+      "name": "Makdee",
+      "poster": "https://images.metahub.space/poster/small/tt0341455/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0341455/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0341455/img",
+      "year": "2002",
+      "imdbRating": "7.5",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.49 | IMDb: 7.5"
+    },
+    {
+      "id": "tt0360486",
+      "type": "movie",
+      "name": "Constantine",
+      "poster": "https://images.metahub.space/poster/small/tt0360486/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0360486/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0360486/img",
+      "year": "2005",
+      "imdbRating": "7.0",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.47 | IMDb: 7.0"
+    },
+    {
+      "id": "tt5606664",
+      "type": "movie",
+      "name": "Doctor Sleep",
+      "poster": "https://images.metahub.space/poster/small/tt5606664/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5606664/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5606664/img",
+      "year": "2019",
+      "imdbRating": "7.3",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.39 | IMDb: 7.3"
+    },
+    {
+      "id": "tt4935158",
+      "type": "movie",
+      "name": "Demon",
+      "poster": "https://images.metahub.space/poster/small/tt4935158/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4935158/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4935158/img",
+      "year": "2015",
+      "imdbRating": "6.1",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.32 | IMDb: 6.1"
+    },
+    {
+      "id": "tt5278832",
+      "type": "movie",
+      "name": "The Lure",
+      "poster": "https://images.metahub.space/poster/small/tt5278832/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5278832/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5278832/img",
+      "year": "2015",
+      "imdbRating": "6.2",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.26 | IMDb: 6.2"
+    },
+    {
+      "id": "tt8180482",
+      "type": "movie",
+      "name": "9",
+      "poster": "https://images.metahub.space/poster/small/tt8180482/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8180482/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8180482/img",
+      "year": "2019",
+      "imdbRating": "6.7",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Sci-Fi",
+        "Malayalam"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.18 | IMDb: 6.7"
+    },
+    {
+      "id": "tt33069917",
+      "type": "movie",
+      "name": "Sanatorium Under the Sign of the Hourglass",
+      "poster": "https://live.metahub.space/poster/small/tt33069917/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt33069917/img",
+      "logo": "https://live.metahub.space/logo/medium/tt33069917/img",
+      "year": "2024",
+      "imdbRating": "5.9",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.18 | IMDb: 5.9"
+    },
+    {
+      "id": "tt20527932",
+      "type": "movie",
+      "name": "Lalanna's Song",
+      "poster": "https://live.metahub.space/poster/small/tt20527932/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt20527932/img",
+      "logo": "https://live.metahub.space/logo/medium/tt20527932/img",
+      "year": "2022",
+      "imdbRating": "7.0",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Horror",
+        "Malayalam"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.14 | IMDb: 7.0"
+    },
+    {
+      "id": "tt7329858",
+      "type": "movie",
+      "name": "Pari",
+      "poster": "https://images.metahub.space/poster/small/tt7329858/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7329858/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7329858/img",
+      "year": "2018",
+      "imdbRating": "6.6",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.0 | IMDb: 6.6"
+    }
+  ]
+}

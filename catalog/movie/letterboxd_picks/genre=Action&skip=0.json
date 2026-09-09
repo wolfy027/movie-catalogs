@@ -1,0 +1,52 @@
+{
+  "metas": [
+    {
+      "id": "tt6710474",
+      "type": "movie",
+      "name": "Everything Everywhere All at Once",
+      "poster": "https://images.metahub.space/poster/small/tt6710474/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6710474/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6710474/img",
+      "year": "2022",
+      "imdbRating": "7.7",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt9362722",
+      "type": "movie",
+      "name": "Spider-Man: Across the Spider-Verse",
+      "poster": "https://images.metahub.space/poster/small/tt9362722/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9362722/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9362722/img",
+      "year": "2023",
+      "imdbRating": "8.5",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "name": "Dune: Part Two",
+      "poster": "https://images.metahub.space/poster/small/tt15239678/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt15239678/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15239678/img",
+      "year": "2024",
+      "imdbRating": "8.4",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    }
+  ]
+}

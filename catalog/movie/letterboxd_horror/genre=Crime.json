@@ -1,0 +1,240 @@
+{
+  "metas": [
+    {
+      "id": "tt4003440",
+      "type": "movie",
+      "name": "The House That Jack Built",
+      "poster": "https://live.metahub.space/poster/small/tt4003440/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt4003440/img",
+      "logo": "https://live.metahub.space/logo/medium/tt4003440/img",
+      "year": "2018",
+      "imdbRating": "6.8",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Crime",
+        "Thriller",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.62 | IMDb: 6.8"
+    },
+    {
+      "id": "tt13381376",
+      "type": "movie",
+      "name": "Welcome Home",
+      "poster": "https://images.metahub.space/poster/small/tt13381376/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13381376/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13381376/img",
+      "year": "2020",
+      "imdbRating": "7.4",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.41 | IMDb: 7.4"
+    },
+    {
+      "id": "tt4160708",
+      "type": "movie",
+      "name": "Don't Breathe",
+      "poster": "https://images.metahub.space/poster/small/tt4160708/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4160708/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4160708/img",
+      "year": "2016",
+      "imdbRating": "7.1",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.32 | IMDb: 7.1"
+    },
+    {
+      "id": "tt5513098",
+      "type": "movie",
+      "name": "Autohead",
+      "poster": "https://live.metahub.space/poster/small/tt5513098/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt5513098/img",
+      "logo": "https://live.metahub.space/logo/medium/tt5513098/img",
+      "year": "2016",
+      "imdbRating": "6.0",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.31 | IMDb: 6.0"
+    },
+    {
+      "id": "tt0212985",
+      "type": "movie",
+      "name": "Hannibal",
+      "poster": "https://images.metahub.space/poster/small/tt0212985/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0212985/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0212985/img",
+      "year": "2001",
+      "imdbRating": "6.8",
+      "genres": [
+        "Horror",
+        "Crime",
+        "Drama",
+        "Thriller",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.3 | IMDb: 6.8"
+    },
+    {
+      "id": "tt23468450",
+      "type": "movie",
+      "name": "Longlegs",
+      "poster": "https://images.metahub.space/poster/small/tt23468450/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt23468450/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23468450/img",
+      "year": "2024",
+      "imdbRating": "6.5",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.29 | IMDb: 6.5"
+    },
+    {
+      "id": "tt1502407",
+      "type": "movie",
+      "name": "Halloween",
+      "poster": "https://images.metahub.space/poster/small/tt1502407/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1502407/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1502407/img",
+      "year": "2018",
+      "imdbRating": "6.5",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.22 | IMDb: 6.5"
+    },
+    {
+      "id": "tt0289845",
+      "type": "movie",
+      "name": "Aks",
+      "poster": "https://images.metahub.space/poster/small/tt0289845/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0289845/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0289845/img",
+      "year": "2001",
+      "imdbRating": "5.8",
+      "genres": [
+        "Action",
+        "Crime",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.21 | IMDb: 5.8"
+    },
+    {
+      "id": "tt0989605",
+      "type": "movie",
+      "name": "Aatma",
+      "poster": "https://live.metahub.space/poster/small/tt0989605/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt0989605/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0989605/img",
+      "year": "2006",
+      "imdbRating": "4.5",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror",
+        "Crime",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.17 | IMDb: 4.5"
+    },
+    {
+      "id": "tt10365998",
+      "type": "movie",
+      "name": "Infinity Pool",
+      "poster": "https://images.metahub.space/poster/small/tt10365998/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt10365998/img",
+      "logo": "https://images.metahub.space/logo/medium/tt10365998/img",
+      "year": "2023",
+      "imdbRating": "6.0",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.11 | IMDb: 6.0"
+    },
+    {
+      "id": "tt22048412",
+      "type": "movie",
+      "name": "MaXXXine",
+      "poster": "https://images.metahub.space/poster/small/tt22048412/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt22048412/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22048412/img",
+      "year": "2024",
+      "imdbRating": "6.2",
+      "genres": [
+        "Crime",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.09 | IMDb: 6.2"
+    },
+    {
+      "id": "tt11394332",
+      "type": "movie",
+      "name": "Spree",
+      "poster": "https://images.metahub.space/poster/small/tt11394332/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt11394332/img",
+      "logo": "https://images.metahub.space/logo/medium/tt11394332/img",
+      "year": "2020",
+      "imdbRating": "5.9",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Horror",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.09 | IMDb: 5.9"
+    },
+    {
+      "id": "tt3811906",
+      "type": "movie",
+      "name": "Malignant",
+      "poster": "https://images.metahub.space/poster/small/tt3811906/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3811906/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3811906/img",
+      "year": "2021",
+      "imdbRating": "6.2",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery",
+        "English"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.08 | IMDb: 6.2"
+    }
+  ]
+}

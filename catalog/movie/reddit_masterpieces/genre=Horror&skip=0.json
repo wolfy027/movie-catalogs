@@ -1,0 +1,146 @@
+{
+  "metas": [
+    {
+      "id": "tt0102926",
+      "type": "movie",
+      "name": "The Silence of the Lambs",
+      "poster": "https://images.metahub.space/poster/small/tt0102926/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0102926/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0102926/img",
+      "year": "1991",
+      "imdbRating": "8.6",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0084787",
+      "type": "movie",
+      "name": "The Thing",
+      "poster": "https://images.metahub.space/poster/small/tt0084787/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0084787/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0084787/img",
+      "year": "1982",
+      "imdbRating": "8.2",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0093773",
+      "type": "movie",
+      "name": "Predator",
+      "poster": "https://images.metahub.space/poster/small/tt0093773/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0093773/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0093773/img",
+      "year": "1987",
+      "imdbRating": "7.8",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0073195",
+      "type": "movie",
+      "name": "Jaws",
+      "poster": "https://images.metahub.space/poster/small/tt0073195/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0073195/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0073195/img",
+      "year": "1975",
+      "imdbRating": "8.1",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0104070",
+      "type": "movie",
+      "name": "Death Becomes Her",
+      "poster": "https://images.metahub.space/poster/small/tt0104070/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0104070/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0104070/img",
+      "year": "1992",
+      "imdbRating": "6.7",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0078748",
+      "type": "movie",
+      "name": "Alien",
+      "poster": "https://images.metahub.space/poster/small/tt0078748/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0078748/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0078748/img",
+      "year": "1979",
+      "imdbRating": "8.5",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0090605",
+      "type": "movie",
+      "name": "Aliens",
+      "poster": "https://images.metahub.space/poster/small/tt0090605/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0090605/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0090605/img",
+      "year": "1986",
+      "imdbRating": "8.4",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0100814",
+      "type": "movie",
+      "name": "Tremors",
+      "poster": "https://images.metahub.space/poster/small/tt0100814/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0100814/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0100814/img",
+      "year": "1990",
+      "imdbRating": "7.2",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tt0105665",
+      "type": "movie",
+      "name": "Twin Peaks: Fire Walk with Me",
+      "poster": "https://images.metahub.space/poster/small/tt0105665/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0105665/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0105665/img",
+      "year": "1992",
+      "imdbRating": "7.3",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ]
+    }
+  ]
+}

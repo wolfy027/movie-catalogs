@@ -48,22 +48,6 @@
       ]
     },
     {
-      "id": "tt9362736",
-      "type": "movie",
-      "name": "Die My Love",
-      "poster": "https://image.tmdb.org/t/p/w500/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt9362736/img",
-      "logo": "https://images.metahub.space/logo/medium/tt9362736/img",
-      "year": "2025",
-      "imdbRating": "",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Horror"
-      ]
-    },
-    {
       "id": "tt22898462",
       "type": "movie",
       "name": "The Conjuring: Last Rites",
@@ -92,53 +76,6 @@
       "genres": [
         "Drama",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tt23872640",
-      "type": "movie",
-      "name": "Dirty Angels",
-      "poster": "https://image.tmdb.org/t/p/w500/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt23872640/img",
-      "logo": "https://images.metahub.space/logo/medium/tt23872640/img",
-      "year": "",
-      "imdbRating": "",
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ]
-    },
-    {
-      "id": "tt30144839",
-      "type": "movie",
-      "name": "One Battle After Another",
-      "poster": "https://image.tmdb.org/t/p/w500/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt30144839/img",
-      "logo": "https://images.metahub.space/logo/medium/tt30144839/img",
-      "year": "",
-      "imdbRating": "",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tt26581740",
-      "type": "movie",
-      "name": "Weapons",
-      "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt26581740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26581740/img",
-      "year": "",
-      "imdbRating": "",
-      "genres": [
-        "Horror",
-        "Mystery"
       ]
     },
     {

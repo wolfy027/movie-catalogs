@@ -21,6 +21,12 @@
       "name": "Letterboxd Picks",
       "type": "movie",
       "file": "catalogs/letterboxd_picks.json"
+    },
+    {
+      "id": "letterboxd_horror",
+      "name": "Letterboxd 3+ Horror (2001+)",
+      "type": "movie",
+      "file": "catalogs/letterboxd_horror.json"
     }
   ]
 }

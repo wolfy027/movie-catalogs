@@ -1,53 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt28996126",
-      "type": "movie",
-      "name": "Nobody 2",
-      "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt28996126/img",
-      "logo": "https://images.metahub.space/logo/medium/tt28996126/img",
-      "year": "",
-      "imdbRating": "",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt28671344",
-      "type": "movie",
-      "name": "The Strangers: Chapter 2",
-      "poster": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt28671344/img",
-      "logo": "https://images.metahub.space/logo/medium/tt28671344/img",
-      "year": "",
-      "imdbRating": "",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tt13650814",
-      "type": "movie",
-      "name": "Borderline",
-      "poster": "https://image.tmdb.org/t/p/w500/z2yAWt1aAvhxap9mdjlQhXiEJT4.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt13650814/img",
-      "logo": "https://images.metahub.space/logo/medium/tt13650814/img",
-      "year": "",
-      "imdbRating": "",
-      "genres": [
-        "Comedy",
-        "Thriller"
-      ]
-    },
-    {
       "id": "tt9362736",
       "type": "movie",
       "name": "Die My Love",
@@ -61,22 +14,6 @@
         "Comedy",
         "Drama",
         "Horror"
-      ]
-    },
-    {
-      "id": "tt22898462",
-      "type": "movie",
-      "name": "The Conjuring: Last Rites",
-      "poster": "https://image.tmdb.org/t/p/w500/umvkcIb0XAk486TEmx1V5aVzhbm.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt22898462/img",
-      "logo": "https://images.metahub.space/logo/medium/tt22898462/img",
-      "year": "",
-      "imdbRating": "",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
       ]
     },
     {
@@ -124,21 +61,6 @@
         "Action",
         "Adventure",
         "Drama"
-      ]
-    },
-    {
-      "id": "tt26581740",
-      "type": "movie",
-      "name": "Weapons",
-      "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-      "posterShape": "poster",
-      "background": "https://images.metahub.space/background/medium/tt26581740/img",
-      "logo": "https://images.metahub.space/logo/medium/tt26581740/img",
-      "year": "",
-      "imdbRating": "",
-      "genres": [
-        "Horror",
-        "Mystery"
       ]
     },
     {

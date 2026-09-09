@@ -1,0 +1,20 @@
+{
+  "metas": [
+    {
+      "id": "tt23872640",
+      "type": "movie",
+      "name": "Dirty Angels",
+      "poster": "https://image.tmdb.org/t/p/w500/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt23872640/img",
+      "logo": "https://images.metahub.space/logo/medium/tt23872640/img",
+      "year": "",
+      "imdbRating": "",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ]
+    }
+  ]
+}

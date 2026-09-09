@@ -1,0 +1,84 @@
+{
+  "metas": [
+    {
+      "id": "tt0093779",
+      "type": "movie",
+      "name": "The Princess Bride",
+      "poster": "https://images.metahub.space/poster/small/tt0093779/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0093779/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0093779/img",
+      "year": "1987",
+      "imdbRating": "8.0",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0245429",
+      "type": "movie",
+      "name": "Spirited Away",
+      "poster": "https://images.metahub.space/poster/small/tt0245429/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0245429/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0245429/img",
+      "year": "2003",
+      "imdbRating": "8.6",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0038650",
+      "type": "movie",
+      "name": "It's a Wonderful Life",
+      "poster": "https://images.metahub.space/poster/small/tt0038650/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0038650/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0038650/img",
+      "year": "1946",
+      "imdbRating": "8.6",
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0032138",
+      "type": "movie",
+      "name": "The Wizard of Oz",
+      "poster": "https://images.metahub.space/poster/small/tt0032138/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0032138/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0032138/img",
+      "year": "1939",
+      "imdbRating": "8.1",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tt0910970",
+      "type": "movie",
+      "name": "WALL\u00b7E",
+      "poster": "https://images.metahub.space/poster/small/tt0910970/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0910970/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0910970/img",
+      "year": "2008",
+      "imdbRating": "8.4",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ]
+    }
+  ]
+}

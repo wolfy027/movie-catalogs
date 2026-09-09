@@ -1,0 +1,35 @@
+{
+  "metas": [
+    {
+      "id": "tt2582802",
+      "type": "movie",
+      "name": "Whiplash",
+      "poster": "https://images.metahub.space/poster/small/tt2582802/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2582802/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2582802/img",
+      "year": "2014",
+      "imdbRating": "8.5",
+      "genres": [
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt3783958",
+      "type": "movie",
+      "name": "La La Land",
+      "poster": "https://images.metahub.space/poster/small/tt3783958/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3783958/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3783958/img",
+      "year": "2016",
+      "imdbRating": "8.0",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ]
+    }
+  ]
+}

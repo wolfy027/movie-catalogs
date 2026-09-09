@@ -1,0 +1,19 @@
+{
+  "metas": [
+    {
+      "id": "tt0071230",
+      "type": "movie",
+      "name": "Blazing Saddles",
+      "poster": "https://images.metahub.space/poster/small/tt0071230/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0071230/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0071230/img",
+      "year": "1974",
+      "imdbRating": "7.7",
+      "genres": [
+        "Comedy",
+        "Western"
+      ]
+    }
+  ]
+}

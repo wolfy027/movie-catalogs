@@ -1,0 +1,50 @@
+{
+  "metas": [
+    {
+      "id": "tt8613070",
+      "type": "movie",
+      "name": "Portrait of a Lady on Fire",
+      "poster": "https://images.metahub.space/poster/small/tt8613070/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8613070/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8613070/img",
+      "year": "2020",
+      "imdbRating": "8.0",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt13238346",
+      "type": "movie",
+      "name": "Past Lives",
+      "poster": "https://images.metahub.space/poster/small/tt13238346/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13238346/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13238346/img",
+      "year": "2023",
+      "imdbRating": "7.8",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt14230458",
+      "type": "movie",
+      "name": "Poor Things",
+      "poster": "https://images.metahub.space/poster/small/tt14230458/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14230458/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14230458/img",
+      "year": "2023",
+      "imdbRating": "7.7",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    }
+  ]
+}

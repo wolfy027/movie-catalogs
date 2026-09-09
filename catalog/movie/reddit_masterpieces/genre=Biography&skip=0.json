@@ -1,0 +1,36 @@
+{
+  "metas": [
+    {
+      "id": "tt0086879",
+      "type": "movie",
+      "name": "Amadeus",
+      "poster": "https://images.metahub.space/poster/small/tt0086879/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0086879/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0086879/img",
+      "year": "1984",
+      "imdbRating": "8.4",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt1596363",
+      "type": "movie",
+      "name": "The Big Short",
+      "poster": "https://images.metahub.space/poster/small/tt1596363/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1596363/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1596363/img",
+      "year": "2015",
+      "imdbRating": "7.8",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ]
+    }
+  ]
+}

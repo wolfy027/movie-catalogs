@@ -1,0 +1,65 @@
+{
+  "metas": [
+    {
+      "id": "tt0088258",
+      "type": "movie",
+      "name": "This Is Spinal Tap",
+      "poster": "https://images.metahub.space/poster/small/tt0088258/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0088258/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0088258/img",
+      "year": "1984",
+      "imdbRating": "7.9",
+      "genres": [
+        "Comedy",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt0841046",
+      "type": "movie",
+      "name": "Walk Hard: The Dewey Cox Story",
+      "poster": "https://images.metahub.space/poster/small/tt0841046/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0841046/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0841046/img",
+      "year": "2007",
+      "imdbRating": "6.9",
+      "genres": [
+        "Comedy",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt0086879",
+      "type": "movie",
+      "name": "Amadeus",
+      "poster": "https://images.metahub.space/poster/small/tt0086879/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0086879/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0086879/img",
+      "year": "1984",
+      "imdbRating": "8.4",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt2582802",
+      "type": "movie",
+      "name": "Whiplash",
+      "poster": "https://images.metahub.space/poster/small/tt2582802/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2582802/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2582802/img",
+      "year": "2014",
+      "imdbRating": "8.5",
+      "genres": [
+        "Drama",
+        "Music"
+      ]
+    }
+  ]
+}

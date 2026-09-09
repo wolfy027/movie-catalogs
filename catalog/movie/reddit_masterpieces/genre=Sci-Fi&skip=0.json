@@ -1,0 +1,241 @@
+{
+  "metas": [
+    {
+      "id": "tt0338013",
+      "type": "movie",
+      "name": "Eternal Sunshine of the Spotless Mind",
+      "poster": "https://images.metahub.space/poster/small/tt0338013/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0338013/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0338013/img",
+      "year": "2004",
+      "imdbRating": "8.3",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0088763",
+      "type": "movie",
+      "name": "Back to the Future",
+      "poster": "https://images.metahub.space/poster/small/tt0088763/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0088763/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0088763/img",
+      "year": "1985",
+      "imdbRating": "8.5",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0103064",
+      "type": "movie",
+      "name": "Terminator 2: Judgment Day",
+      "poster": "https://images.metahub.space/poster/small/tt0103064/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0103064/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0103064/img",
+      "year": "1991",
+      "imdbRating": "8.6",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0482571",
+      "type": "movie",
+      "name": "The Prestige",
+      "poster": "https://images.metahub.space/poster/small/tt0482571/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0482571/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0482571/img",
+      "year": "2006",
+      "imdbRating": "8.5",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0084787",
+      "type": "movie",
+      "name": "The Thing",
+      "poster": "https://images.metahub.space/poster/small/tt0084787/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0084787/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0084787/img",
+      "year": "1982",
+      "imdbRating": "8.2",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0177789",
+      "type": "movie",
+      "name": "Galaxy Quest",
+      "poster": "https://images.metahub.space/poster/small/tt0177789/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0177789/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0177789/img",
+      "year": "1999",
+      "imdbRating": "7.4",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt1392190",
+      "type": "movie",
+      "name": "Mad Max: Fury Road",
+      "poster": "https://images.metahub.space/poster/small/tt1392190/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1392190/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1392190/img",
+      "year": "2015",
+      "imdbRating": "8.1",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0206634",
+      "type": "movie",
+      "name": "Children of Men",
+      "poster": "https://images.metahub.space/poster/small/tt0206634/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0206634/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0206634/img",
+      "year": "2006",
+      "imdbRating": "7.9",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt0078748",
+      "type": "movie",
+      "name": "Alien",
+      "poster": "https://images.metahub.space/poster/small/tt0078748/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0078748/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0078748/img",
+      "year": "1979",
+      "imdbRating": "8.5",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0098546",
+      "type": "movie",
+      "name": "UHF",
+      "poster": "https://images.metahub.space/poster/small/tt0098546/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0098546/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0098546/img",
+      "year": "1989",
+      "imdbRating": "6.9",
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0083658",
+      "type": "movie",
+      "name": "Blade Runner",
+      "poster": "https://images.metahub.space/poster/small/tt0083658/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0083658/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0083658/img",
+      "year": "1982",
+      "imdbRating": "8.1",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt2543164",
+      "type": "movie",
+      "name": "Arrival",
+      "poster": "https://images.metahub.space/poster/small/tt2543164/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2543164/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2543164/img",
+      "year": "2016",
+      "imdbRating": "7.9",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0093870",
+      "type": "movie",
+      "name": "RoboCop",
+      "poster": "https://images.metahub.space/poster/small/tt0093870/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0093870/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0093870/img",
+      "year": "1987",
+      "imdbRating": "7.6",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0133093",
+      "type": "movie",
+      "name": "The Matrix",
+      "poster": "https://images.metahub.space/poster/small/tt0133093/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0133093/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0133093/img",
+      "year": "1999",
+      "imdbRating": "8.7",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ]
+    },
+    {
+      "id": "tt0816692",
+      "type": "movie",
+      "name": "Interstellar",
+      "poster": "https://images.metahub.space/poster/small/tt0816692/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0816692/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0816692/img",
+      "year": "2014",
+      "imdbRating": "8.7",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ]
+    }
+  ]
+}

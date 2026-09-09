@@ -1,0 +1,52 @@
+{
+  "metas": [
+    {
+      "id": "tt17009710",
+      "type": "movie",
+      "name": "Anatomy of a Fall",
+      "poster": "https://images.metahub.space/poster/small/tt17009710/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt17009710/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17009710/img",
+      "year": "2024",
+      "imdbRating": "7.6",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt0109424",
+      "type": "movie",
+      "name": "Chungking Express",
+      "poster": "https://images.metahub.space/poster/small/tt0109424/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0109424/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0109424/img",
+      "year": "1994",
+      "imdbRating": "7.9",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0112913",
+      "type": "movie",
+      "name": "Fallen Angels",
+      "poster": "https://images.metahub.space/poster/small/tt0112913/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0112913/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0112913/img",
+      "year": "1995",
+      "imdbRating": "7.5",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    }
+  ]
+}

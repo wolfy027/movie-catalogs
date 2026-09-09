@@ -1,0 +1,201 @@
+{
+  "metas": [
+    {
+      "id": "tt8387918",
+      "type": "movie",
+      "name": "Kill It and Leave This Town",
+      "poster": "https://images.metahub.space/poster/small/tt8387918/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8387918/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8387918/img",
+      "year": "2020",
+      "imdbRating": "6.5",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.49 | IMDb: 6.5"
+    },
+    {
+      "id": "tt1863330",
+      "type": "movie",
+      "name": "Millhaven",
+      "poster": "https://live.metahub.space/poster/small/tt1863330/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt1863330/img",
+      "logo": "https://live.metahub.space/logo/medium/tt1863330/img",
+      "year": "2010",
+      "imdbRating": "6.7",
+      "genres": [
+        "Animation",
+        "Horror",
+        "Music",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.49 | IMDb: 6.7"
+    },
+    {
+      "id": "tt4935158",
+      "type": "movie",
+      "name": "Demon",
+      "poster": "https://images.metahub.space/poster/small/tt4935158/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4935158/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4935158/img",
+      "year": "2015",
+      "imdbRating": "6.1",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.32 | IMDb: 6.1"
+    },
+    {
+      "id": "tt34512661",
+      "type": "movie",
+      "name": "Mushrooms",
+      "poster": "https://live.metahub.space/poster/small/tt34512661/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt34512661/img",
+      "logo": "https://live.metahub.space/logo/medium/tt34512661/img",
+      "year": "2023",
+      "imdbRating": "5.9",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.29 | IMDb: 5.9"
+    },
+    {
+      "id": "tt7240616",
+      "type": "movie",
+      "name": "Krew Boga",
+      "poster": "https://images.metahub.space/poster/small/tt7240616/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7240616/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7240616/img",
+      "year": "2018",
+      "imdbRating": "5.3",
+      "genres": [
+        "Horror",
+        "History",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.28 | IMDb: 5.3"
+    },
+    {
+      "id": "tt5278832",
+      "type": "movie",
+      "name": "The Lure",
+      "poster": "https://images.metahub.space/poster/small/tt5278832/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5278832/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5278832/img",
+      "year": "2015",
+      "imdbRating": "6.2",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.26 | IMDb: 6.2"
+    },
+    {
+      "id": "tt33069917",
+      "type": "movie",
+      "name": "Sanatorium Under the Sign of the Hourglass",
+      "poster": "https://live.metahub.space/poster/small/tt33069917/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt33069917/img",
+      "logo": "https://live.metahub.space/logo/medium/tt33069917/img",
+      "year": "2024",
+      "imdbRating": "5.9",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Drama",
+        "Horror",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.18 | IMDb: 5.9"
+    },
+    {
+      "id": "tt27540821",
+      "type": "movie",
+      "name": "I Saw the Face of the Devil",
+      "poster": "https://live.metahub.space/poster/small/tt27540821/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt27540821/img",
+      "logo": "https://live.metahub.space/logo/medium/tt27540821/img",
+      "year": "2023",
+      "imdbRating": "4.9",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Comedy",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.14 | IMDb: 4.9"
+    },
+    {
+      "id": "tt7203520",
+      "type": "movie",
+      "name": "Werewolf",
+      "poster": "https://images.metahub.space/poster/small/tt7203520/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7203520/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7203520/img",
+      "year": "2018",
+      "imdbRating": "6.0",
+      "genres": [
+        "Drama",
+        "Horror",
+        "War",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.11 | IMDb: 6.0"
+    },
+    {
+      "id": "tt33029349",
+      "type": "movie",
+      "name": "Night Silence",
+      "poster": "https://live.metahub.space/poster/small/tt33029349/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt33029349/img",
+      "logo": "https://live.metahub.space/logo/medium/tt33029349/img",
+      "year": "2024",
+      "imdbRating": "5.5",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.09 | IMDb: 5.5"
+    },
+    {
+      "id": "tt20426646",
+      "type": "movie",
+      "name": "It Came from the Water",
+      "poster": "https://live.metahub.space/poster/small/tt20426646/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt20426646/img",
+      "logo": "https://live.metahub.space/logo/medium/tt20426646/img",
+      "year": "2022",
+      "imdbRating": "5.2",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Polish"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.07 | IMDb: 5.2"
+    }
+  ]
+}

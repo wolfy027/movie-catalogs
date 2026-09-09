@@ -16,11 +16,27 @@
       "name": "Antigravity Picks",
       "extra": [
         {
-          "name": "search",
-          "isRequired": false
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Thriller",
+            "War"
+          ],
+          "optionsLimit": 1
         },
         {
           "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
           "isRequired": false
         }
       ]
@@ -31,11 +47,36 @@
       "name": "Reddit 11/10 Masterpieces",
       "extra": [
         {
-          "name": "search",
-          "isRequired": false
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Biography",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Horror",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Sci-Fi",
+            "Sport",
+            "Thriller",
+            "War",
+            "Western"
+          ],
+          "optionsLimit": 1
         },
         {
           "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
           "isRequired": false
         }
       ]
@@ -46,11 +87,73 @@
       "name": "Letterboxd Picks",
       "extra": [
         {
-          "name": "search",
-          "isRequired": false
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "History",
+            "Music",
+            "Mystery",
+            "Romance",
+            "Thriller",
+            "War"
+          ],
+          "optionsLimit": 1
         },
         {
           "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "letterboxd_horror",
+      "name": "Letterboxd 3+ Horror (2001+)",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "English",
+            "Family",
+            "Fantasy",
+            "Hindi",
+            "History",
+            "Horror",
+            "Malayalam",
+            "Music",
+            "Musical",
+            "Mystery",
+            "Polish",
+            "Romance",
+            "Sci-Fi",
+            "Thriller",
+            "War"
+          ],
+          "optionsLimit": 1
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        },
+        {
+          "name": "search",
           "isRequired": false
         }
       ]

@@ -1,0 +1,20 @@
+{
+  "metas": [
+    {
+      "id": "tt30144839",
+      "type": "movie",
+      "name": "One Battle After Another",
+      "poster": "https://image.tmdb.org/t/p/w500/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt30144839/img",
+      "logo": "https://images.metahub.space/logo/medium/tt30144839/img",
+      "year": "",
+      "imdbRating": "",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    }
+  ]
+}

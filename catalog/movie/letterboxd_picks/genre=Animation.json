@@ -1,0 +1,20 @@
+{
+  "metas": [
+    {
+      "id": "tt9362722",
+      "type": "movie",
+      "name": "Spider-Man: Across the Spider-Verse",
+      "poster": "https://images.metahub.space/poster/small/tt9362722/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9362722/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9362722/img",
+      "year": "2023",
+      "imdbRating": "8.5",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    }
+  ]
+}

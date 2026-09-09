@@ -1,0 +1,590 @@
+{
+  "metas": [
+    {
+      "id": "tt8239946",
+      "type": "movie",
+      "name": "Tumbbad",
+      "poster": "https://images.metahub.space/poster/small/tt8239946/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8239946/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8239946/img",
+      "year": "2018",
+      "imdbRating": "8.2",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.69 | IMDb: 8.2"
+    },
+    {
+      "id": "tt0995031",
+      "type": "movie",
+      "name": "Bhool Bhulaiyaa",
+      "poster": "https://images.metahub.space/poster/small/tt0995031/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0995031/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0995031/img",
+      "year": "2007",
+      "imdbRating": "7.5",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Mystery",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.63 | IMDb: 7.5"
+    },
+    {
+      "id": "tt0341455",
+      "type": "movie",
+      "name": "Makdee",
+      "poster": "https://images.metahub.space/poster/small/tt0341455/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0341455/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0341455/img",
+      "year": "2002",
+      "imdbRating": "7.5",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Family",
+        "Fantasy",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.49 | IMDb: 7.5"
+    },
+    {
+      "id": "tt12393526",
+      "type": "movie",
+      "name": "Bulbbul",
+      "poster": "https://images.metahub.space/poster/small/tt12393526/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt12393526/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12393526/img",
+      "year": "2020",
+      "imdbRating": "6.6",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.43 | IMDb: 6.6"
+    },
+    {
+      "id": "tt13381376",
+      "type": "movie",
+      "name": "Welcome Home",
+      "poster": "https://images.metahub.space/poster/small/tt13381376/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13381376/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13381376/img",
+      "year": "2020",
+      "imdbRating": "7.4",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.41 | IMDb: 7.4"
+    },
+    {
+      "id": "tt5743656",
+      "type": "movie",
+      "name": "Phobia",
+      "poster": "https://images.metahub.space/poster/small/tt5743656/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt5743656/img",
+      "logo": "https://images.metahub.space/logo/medium/tt5743656/img",
+      "year": "2016",
+      "imdbRating": "6.8",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.4 | IMDb: 6.8"
+    },
+    {
+      "id": "tt5804922",
+      "type": "movie",
+      "name": "The Guest",
+      "poster": "https://live.metahub.space/poster/small/tt5804922/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt5804922/img",
+      "logo": "https://live.metahub.space/logo/medium/tt5804922/img",
+      "year": "2016",
+      "imdbRating": "6.7",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.38 | IMDb: 6.7"
+    },
+    {
+      "id": "tt23186222",
+      "type": "movie",
+      "name": "In the Belly of a Tiger",
+      "poster": "https://live.metahub.space/poster/small/tt23186222/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt23186222/img",
+      "logo": "https://live.metahub.space/logo/medium/tt23186222/img",
+      "year": "2024",
+      "imdbRating": "7.5",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.36 | IMDb: 7.5"
+    },
+    {
+      "id": "tt1807978",
+      "type": "movie",
+      "name": "Bhoot and Friends",
+      "poster": "https://images.metahub.space/poster/small/tt1807978/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1807978/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1807978/img",
+      "year": "2010",
+      "imdbRating": "5.5",
+      "genres": [
+        "Horror",
+        "Animation",
+        "Action",
+        "Adventure",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.35 | IMDb: 5.5"
+    },
+    {
+      "id": "tt8108202",
+      "type": "movie",
+      "name": "Stree",
+      "poster": "https://images.metahub.space/poster/small/tt8108202/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8108202/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8108202/img",
+      "year": "2018",
+      "imdbRating": "7.5",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.33 | IMDb: 7.5"
+    },
+    {
+      "id": "tt5513098",
+      "type": "movie",
+      "name": "Autohead",
+      "poster": "https://live.metahub.space/poster/small/tt5513098/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt5513098/img",
+      "logo": "https://live.metahub.space/logo/medium/tt5513098/img",
+      "year": "2016",
+      "imdbRating": "6.0",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.31 | IMDb: 6.0"
+    },
+    {
+      "id": "tt2436516",
+      "type": "movie",
+      "name": "Go Goa Gone",
+      "poster": "https://images.metahub.space/poster/small/tt2436516/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2436516/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2436516/img",
+      "year": "2013",
+      "imdbRating": "6.7",
+      "genres": [
+        "Horror",
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.25 | IMDb: 6.7"
+    },
+    {
+      "id": "tt1887763",
+      "type": "movie",
+      "name": "Haunted - 3D",
+      "poster": "https://images.metahub.space/poster/small/tt1887763/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1887763/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1887763/img",
+      "year": "2011",
+      "imdbRating": "6.3",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.22 | IMDb: 6.3"
+    },
+    {
+      "id": "tt0289845",
+      "type": "movie",
+      "name": "Aks",
+      "poster": "https://images.metahub.space/poster/small/tt0289845/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0289845/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0289845/img",
+      "year": "2001",
+      "imdbRating": "5.8",
+      "genres": [
+        "Action",
+        "Crime",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.21 | IMDb: 5.8"
+    },
+    {
+      "id": "tt0371922",
+      "type": "movie",
+      "name": "Saaya",
+      "poster": "https://live.metahub.space/poster/small/tt0371922/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt0371922/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0371922/img",
+      "year": "2003",
+      "imdbRating": "5.8",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.18 | IMDb: 5.8"
+    },
+    {
+      "id": "tt15048614",
+      "type": "movie",
+      "name": "Blurr",
+      "poster": "https://images.metahub.space/poster/small/tt15048614/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt15048614/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15048614/img",
+      "year": "2022",
+      "imdbRating": "5.8",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.17 | IMDb: 5.8"
+    },
+    {
+      "id": "tt0989605",
+      "type": "movie",
+      "name": "Aatma",
+      "poster": "https://live.metahub.space/poster/small/tt0989605/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt0989605/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0989605/img",
+      "year": "2006",
+      "imdbRating": "4.5",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Horror",
+        "Crime",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.17 | IMDb: 4.5"
+    },
+    {
+      "id": "tt1245774",
+      "type": "movie",
+      "name": "Jail",
+      "poster": "https://images.metahub.space/poster/small/tt1245774/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1245774/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1245774/img",
+      "year": "2009",
+      "imdbRating": "6.2",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.15 | IMDb: 6.2"
+    },
+    {
+      "id": "tt12574330",
+      "type": "movie",
+      "name": "Bokshi",
+      "poster": "https://live.metahub.space/poster/small/tt12574330/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt12574330/img",
+      "logo": "https://live.metahub.space/logo/medium/tt12574330/img",
+      "year": "2025",
+      "imdbRating": "6.5",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.12 | IMDb: 6.5"
+    },
+    {
+      "id": "tt0349333",
+      "type": "movie",
+      "name": "Darna Mana Hai",
+      "poster": "https://images.metahub.space/poster/small/tt0349333/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0349333/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0349333/img",
+      "year": "2003",
+      "imdbRating": "6.3",
+      "genres": [
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.1 | IMDb: 6.3"
+    },
+    {
+      "id": "tt12861212",
+      "type": "movie",
+      "name": "Chhorii",
+      "poster": "https://images.metahub.space/poster/small/tt12861212/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt12861212/img",
+      "logo": "https://images.metahub.space/logo/medium/tt12861212/img",
+      "year": "2021",
+      "imdbRating": "6.7",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.1 | IMDb: 6.7"
+    },
+    {
+      "id": "tt1808221",
+      "type": "movie",
+      "name": "Kaalo",
+      "poster": "https://images.metahub.space/poster/small/tt1808221/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1808221/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1808221/img",
+      "year": "2010",
+      "imdbRating": "3.5",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.08 | IMDb: 3.5"
+    },
+    {
+      "id": "tt1600439",
+      "type": "movie",
+      "name": "Shaapit: The Cursed",
+      "poster": "https://images.metahub.space/poster/small/tt1600439/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1600439/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1600439/img",
+      "year": "2010",
+      "imdbRating": "5.5",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Romance",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.08 | IMDb: 5.5"
+    },
+    {
+      "id": "tt0352830",
+      "type": "movie",
+      "name": "Sssshhh...",
+      "poster": "https://live.metahub.space/poster/small/tt0352830/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt0352830/img",
+      "logo": "https://live.metahub.space/logo/medium/tt0352830/img",
+      "year": "2003",
+      "imdbRating": "4.5",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.07 | IMDb: 4.5"
+    },
+    {
+      "id": "tt27510174",
+      "type": "movie",
+      "name": "Stree 2: Sarkate Ka Aatank",
+      "poster": "https://images.metahub.space/poster/small/tt27510174/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt27510174/img",
+      "logo": "https://images.metahub.space/logo/medium/tt27510174/img",
+      "year": "2024",
+      "imdbRating": "6.9",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.06 | IMDb: 6.9"
+    },
+    {
+      "id": "tt0476649",
+      "type": "movie",
+      "name": "Darna Zaroori Hai",
+      "poster": "https://images.metahub.space/poster/small/tt0476649/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0476649/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0476649/img",
+      "year": "2006",
+      "imdbRating": "5.5",
+      "genres": [
+        "Horror",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.06 | IMDb: 5.5"
+    },
+    {
+      "id": "tt3794302",
+      "type": "movie",
+      "name": "Pizza",
+      "poster": "https://images.metahub.space/poster/small/tt3794302/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3794302/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3794302/img",
+      "year": "2014",
+      "imdbRating": "6.2",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.06 | IMDb: 6.2"
+    },
+    {
+      "id": "tt1301698",
+      "type": "movie",
+      "name": "1920",
+      "poster": "https://images.metahub.space/poster/small/tt1301698/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt1301698/img",
+      "logo": "https://images.metahub.space/logo/medium/tt1301698/img",
+      "year": "2008",
+      "imdbRating": "6.4",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.05 | IMDb: 6.4"
+    },
+    {
+      "id": "tt0416282",
+      "type": "movie",
+      "name": "Vaastu Shastra",
+      "poster": "https://images.metahub.space/poster/small/tt0416282/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0416282/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0416282/img",
+      "year": "2004",
+      "imdbRating": "5.0",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.04 | IMDb: 5.0"
+    },
+    {
+      "id": "tt14988886",
+      "type": "movie",
+      "name": "U-Turn",
+      "poster": "https://live.metahub.space/poster/small/tt14988886/img",
+      "posterShape": "poster",
+      "background": "https://live.metahub.space/background/medium/tt14988886/img",
+      "logo": "https://live.metahub.space/logo/medium/tt14988886/img",
+      "year": "2023",
+      "imdbRating": "6.2",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.04 | IMDb: 6.2"
+    },
+    {
+      "id": "tt0307873",
+      "type": "movie",
+      "name": "Raaz",
+      "poster": "https://images.metahub.space/poster/small/tt0307873/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0307873/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0307873/img",
+      "year": "2002",
+      "imdbRating": "6.6",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.01 | IMDb: 6.6"
+    },
+    {
+      "id": "tt7329858",
+      "type": "movie",
+      "name": "Pari",
+      "poster": "https://images.metahub.space/poster/small/tt7329858/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7329858/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7329858/img",
+      "year": "2018",
+      "imdbRating": "6.6",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.0 | IMDb: 6.6"
+    },
+    {
+      "id": "tt2406676",
+      "type": "movie",
+      "name": "Ek Thi Daayan",
+      "poster": "https://images.metahub.space/poster/small/tt2406676/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2406676/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2406676/img",
+      "year": "2013",
+      "imdbRating": "5.7",
+      "genres": [
+        "Horror",
+        "Romance",
+        "Thriller",
+        "Hindi"
+      ],
+      "description": "Letterboxd Rating: \u2605 3.0 | IMDb: 5.7"
+    }
+  ]
+}

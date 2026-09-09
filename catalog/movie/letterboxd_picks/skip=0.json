@@ -1,0 +1,236 @@
+{
+  "metas": [
+    {
+      "id": "tt6751668",
+      "type": "movie",
+      "name": "Parasite",
+      "poster": "https://images.metahub.space/poster/small/tt6751668/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6751668/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6751668/img",
+      "year": "2019",
+      "imdbRating": "8.5",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt2582802",
+      "type": "movie",
+      "name": "Whiplash",
+      "poster": "https://images.metahub.space/poster/small/tt2582802/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt2582802/img",
+      "logo": "https://images.metahub.space/logo/medium/tt2582802/img",
+      "year": "2014",
+      "imdbRating": "8.5",
+      "genres": [
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt6710474",
+      "type": "movie",
+      "name": "Everything Everywhere All at Once",
+      "poster": "https://images.metahub.space/poster/small/tt6710474/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt6710474/img",
+      "logo": "https://images.metahub.space/logo/medium/tt6710474/img",
+      "year": "2022",
+      "imdbRating": "7.7",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt8613070",
+      "type": "movie",
+      "name": "Portrait of a Lady on Fire",
+      "poster": "https://images.metahub.space/poster/small/tt8613070/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt8613070/img",
+      "logo": "https://images.metahub.space/logo/medium/tt8613070/img",
+      "year": "2020",
+      "imdbRating": "8.0",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt13238346",
+      "type": "movie",
+      "name": "Past Lives",
+      "poster": "https://images.metahub.space/poster/small/tt13238346/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt13238346/img",
+      "logo": "https://images.metahub.space/logo/medium/tt13238346/img",
+      "year": "2023",
+      "imdbRating": "7.8",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt19770238",
+      "type": "movie",
+      "name": "Aftersun",
+      "poster": "https://images.metahub.space/poster/small/tt19770238/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt19770238/img",
+      "logo": "https://images.metahub.space/logo/medium/tt19770238/img",
+      "year": "2022",
+      "imdbRating": "7.6",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt3783958",
+      "type": "movie",
+      "name": "La La Land",
+      "poster": "https://images.metahub.space/poster/small/tt3783958/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt3783958/img",
+      "logo": "https://images.metahub.space/logo/medium/tt3783958/img",
+      "year": "2016",
+      "imdbRating": "8.0",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ]
+    },
+    {
+      "id": "tt9362722",
+      "type": "movie",
+      "name": "Spider-Man: Across the Spider-Verse",
+      "poster": "https://images.metahub.space/poster/small/tt9362722/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt9362722/img",
+      "logo": "https://images.metahub.space/logo/medium/tt9362722/img",
+      "year": "2023",
+      "imdbRating": "8.5",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "name": "Dune: Part Two",
+      "poster": "https://images.metahub.space/poster/small/tt15239678/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt15239678/img",
+      "logo": "https://images.metahub.space/logo/medium/tt15239678/img",
+      "year": "2024",
+      "imdbRating": "8.4",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt17009710",
+      "type": "movie",
+      "name": "Anatomy of a Fall",
+      "poster": "https://images.metahub.space/poster/small/tt17009710/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt17009710/img",
+      "logo": "https://images.metahub.space/logo/medium/tt17009710/img",
+      "year": "2024",
+      "imdbRating": "7.6",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tt14039582",
+      "type": "movie",
+      "name": "Drive My Car",
+      "poster": "https://images.metahub.space/poster/small/tt14039582/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14039582/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14039582/img",
+      "year": "2021",
+      "imdbRating": "7.5",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt7160372",
+      "type": "movie",
+      "name": "The Zone of Interest",
+      "poster": "https://images.metahub.space/poster/small/tt7160372/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt7160372/img",
+      "logo": "https://images.metahub.space/logo/medium/tt7160372/img",
+      "year": "2023",
+      "imdbRating": "7.3",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ]
+    },
+    {
+      "id": "tt14230458",
+      "type": "movie",
+      "name": "Poor Things",
+      "poster": "https://images.metahub.space/poster/small/tt14230458/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt14230458/img",
+      "logo": "https://images.metahub.space/logo/medium/tt14230458/img",
+      "year": "2023",
+      "imdbRating": "7.7",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tt0109424",
+      "type": "movie",
+      "name": "Chungking Express",
+      "poster": "https://images.metahub.space/poster/small/tt0109424/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0109424/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0109424/img",
+      "year": "1994",
+      "imdbRating": "7.9",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tt0112913",
+      "type": "movie",
+      "name": "Fallen Angels",
+      "poster": "https://images.metahub.space/poster/small/tt0112913/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0112913/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0112913/img",
+      "year": "1995",
+      "imdbRating": "7.5",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ]
+    }
+  ]
+}

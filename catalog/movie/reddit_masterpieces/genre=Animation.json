@@ -1,0 +1,116 @@
+{
+  "metas": [
+    {
+      "id": "tt0245429",
+      "type": "movie",
+      "name": "Spirited Away",
+      "poster": "https://images.metahub.space/poster/small/tt0245429/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0245429/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0245429/img",
+      "year": "2003",
+      "imdbRating": "8.6",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ]
+    },
+    {
+      "id": "tt0103639",
+      "type": "movie",
+      "name": "Aladdin",
+      "poster": "https://images.metahub.space/poster/small/tt0103639/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0103639/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0103639/img",
+      "year": "1992",
+      "imdbRating": "8.0",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt0129167",
+      "type": "movie",
+      "name": "The Iron Giant",
+      "poster": "https://images.metahub.space/poster/small/tt0129167/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0129167/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0129167/img",
+      "year": "1999",
+      "imdbRating": "8.1",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt0120917",
+      "type": "movie",
+      "name": "The Emperor's New Groove",
+      "poster": "https://images.metahub.space/poster/small/tt0120917/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0120917/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0120917/img",
+      "year": "2000",
+      "imdbRating": "7.4",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tt4633694",
+      "type": "movie",
+      "name": "Spider-Man: Into the Spider-Verse",
+      "poster": "https://images.metahub.space/poster/small/tt4633694/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt4633694/img",
+      "logo": "https://images.metahub.space/logo/medium/tt4633694/img",
+      "year": "2018",
+      "imdbRating": "8.4",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt0892769",
+      "type": "movie",
+      "name": "How to Train Your Dragon",
+      "poster": "https://images.metahub.space/poster/small/tt0892769/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0892769/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0892769/img",
+      "year": "2010",
+      "imdbRating": "8.1",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tt0910970",
+      "type": "movie",
+      "name": "WALL\u00b7E",
+      "poster": "https://images.metahub.space/poster/small/tt0910970/img",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt0910970/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0910970/img",
+      "year": "2008",
+      "imdbRating": "8.4",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ]
+    }
+  ]
+}

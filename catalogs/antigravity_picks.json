@@ -1,72 +1,129 @@
 [
   {
-    "id": "tmdb:1007734",
+    "id": "tt28996126",
     "type": "movie",
     "name": "Nobody 2",
     "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1010756",
+    "id": "tt28671344",
     "type": "movie",
     "name": "The Strangers: Chapter 2",
     "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1013482",
+    "id": "tt13650814",
     "type": "movie",
     "name": "Borderline",
     "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/z2yAWt1aAvhxap9mdjlQhXiEJT4.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/z2yAWt1aAvhxap9mdjlQhXiEJT4.jpg",
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1033148",
+    "id": "tt9362736",
     "type": "movie",
     "name": "Die My Love",
     "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/kajpShbFhOdpl6yCrLezMrr9tB4.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Horror"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1038392",
+    "id": "tt22898462",
     "type": "movie",
     "name": "The Conjuring: Last Rites",
     "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/umvkcIb0XAk486TEmx1V5aVzhbm.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/umvkcIb0XAk486TEmx1V5aVzhbm.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1042834",
+    "id": "tt23149780",
     "type": "movie",
     "name": "Eden",
     "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/jbFEESMVbpJU8IjZBjiWGJdEsxR.jpg",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1043905",
+    "id": "tt23872640",
     "type": "movie",
     "name": "Dirty Angels",
     "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/3O3qSGmjRGc10hMwFul8WDxKE5t.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1054867",
+    "id": "tt30144839",
     "type": "movie",
     "name": "One Battle After Another",
     "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1078605",
+    "id": "tt26581740",
     "type": "movie",
     "name": "Weapons",
     "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "imdbRating": ""
   },
   {
-    "id": "tmdb:1082195",
+    "id": "tt26625693",
     "type": "movie",
     "name": "The Order",
-    "year": "",
-    "poster": "https://image.tmdb.org/t/p/w500/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg"
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "imdbRating": "6.8"
   }
 ]

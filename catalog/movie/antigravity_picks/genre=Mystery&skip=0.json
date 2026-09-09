@@ -1,0 +1,51 @@
+{
+  "metas": [
+    {
+      "id": "tt28671344",
+      "type": "movie",
+      "name": "The Strangers: Chapter 2",
+      "poster": "https://image.tmdb.org/t/p/w500/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt28671344/img",
+      "logo": "https://images.metahub.space/logo/medium/tt28671344/img",
+      "year": "",
+      "imdbRating": "",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt22898462",
+      "type": "movie",
+      "name": "The Conjuring: Last Rites",
+      "poster": "https://image.tmdb.org/t/p/w500/umvkcIb0XAk486TEmx1V5aVzhbm.jpg",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt22898462/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22898462/img",
+      "year": "",
+      "imdbRating": "",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tt26581740",
+      "type": "movie",
+      "name": "Weapons",
+      "poster": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "posterShape": "poster",
+      "background": "https://images.metahub.space/background/medium/tt26581740/img",
+      "logo": "https://images.metahub.space/logo/medium/tt26581740/img",
+      "year": "",
+      "imdbRating": "",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ]
+    }
+  ]
+}
