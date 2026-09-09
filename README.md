@@ -7,25 +7,25 @@ Custom Stremio movie catalogs displayed outside of your library on **Home / Boar
 ## 📺 Stremio Addon URL
 Once GitHub Pages is enabled, install this URL in Stremio on **any device** (Android TV, Mobile, Desktop):
 ```text
-https://wolfy027.github.io/stremio-catalogs/manifest.json
+https://wolfy027.github.io/movie-catalogs/manifest.json
 ```
 
 ---
 
 ## 🚀 How to Enable GitHub Pages (One-time Setup)
-1. Go to your repository settings on GitHub: `https://github.com/wolfy027/stremio-catalogs/settings/pages`
+1. Go to your repository settings on GitHub: `https://github.com/wolfy027/movie-catalogs/settings/pages`
 2. Under **Build and deployment**:
    - **Source**: `Deploy from a branch`
    - **Branch**: `main`
    - **Folder**: `/ (root)`
 3. Click **Save**.
-4. In ~30 seconds, your addon will be live at `https://wolfy027.github.io/stremio-catalogs/manifest.json`.
+4. In ~30 seconds, your addon will be live at `https://wolfy027.github.io/movie-catalogs/manifest.json`.
 
 ---
 
 ## 📁 Repository Structure
 ```text
-stremio-catalogs/
+movie-catalogs/
 ├── manifest.json              # Main Stremio Addon manifest
 ├── lists.json                 # Registry defining all custom catalogs
 ├── catalogs/                  # Raw movie entries for each catalog
