@@ -1,0 +1,20 @@
+{
+  "addon_id": "org.wolfy027.stremio.catalogs",
+  "addon_name": "Wolfy's Curated Catalogs",
+  "addon_version": "1.0.0",
+  "addon_description": "Custom movie lists outside of the library, updated via Antigravity Remote.",
+  "catalogs": [
+    {
+      "id": "antigravity_picks",
+      "name": "Antigravity Picks",
+      "type": "movie",
+      "file": "catalogs/antigravity_picks.json"
+    },
+    {
+      "id": "reddit_masterpieces",
+      "name": "Reddit 11/10 Masterpieces",
+      "type": "movie",
+      "file": "catalogs/reddit_masterpieces.json"
+    }
+  ]
+}

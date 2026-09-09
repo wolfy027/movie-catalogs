@@ -1,0 +1,44 @@
+{
+  "id": "org.wolfy027.stremio.catalogs",
+  "version": "1.0.0",
+  "name": "Wolfy's Curated Catalogs",
+  "description": "Custom movie lists outside of the library, updated via Antigravity Remote.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "antigravity_picks",
+      "name": "Antigravity Picks",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "reddit_masterpieces",
+      "name": "Reddit 11/10 Masterpieces",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
+        {
+          "name": "skip",
+          "isRequired": false
+        }
+      ]
+    }
+  ]
+}
